@@ -508,3 +508,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft_121_update:deleted_
 [01Mar2025 18:49:23.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone has made the advancement [Best Friends Forever]
 [01Mar2025 18:52:29.307] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1169, y=6, z=-917} but found not block entity block Block{minecraft:water}[level=1] at location
 [01Mar2025 18:52:29.308] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=1] but failed at location BlockPos{x=1169, y=6, z=-917}
+[01Mar2025 19:08:52.481] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-641} is full and can't process results
+[01Mar2025 19:16:13.280] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-639} is full and can't process results
