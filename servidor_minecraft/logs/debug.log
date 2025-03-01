@@ -4339,3 +4339,20 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft_121_update:deleted_
 [01Mar2025 08:49:39.986] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-639} is full and can't process results
 [01Mar2025 08:50:04.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel_ge was slain by Gearling
 [01Mar2025 08:51:11.227] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-641} is full and can't process results
+[01Mar2025 08:51:40.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [XxBrayan57Xx: Set Samuel_ge's game mode to Creative Mode]
+[01Mar2025 08:52:01.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [XxBrayan57Xx: Teleported Samuel_ge to XxBrayan57Xx]
+[01Mar2025 08:52:33.904] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Mar2025 08:52:33.913] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Mar2025 08:53:43.165] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/28119, l='ServerLevel[world]', x=226.09, y=168.00, z=-899.58] died: Gearling fell from a high place
+[01Mar2025 08:54:32.538] [Server thread/WARN] [me.pandamods.fallingtrees.api.TreeHandler/]: Tree is too big to be processed at position 252, 159, -899 in dimension 'minecraft:overworld'
+[01Mar2025 08:54:32.584] [Server thread/WARN] [me.pandamods.fallingtrees.api.TreeHandler/]: Tree is too big to be processed at position 253, 159, -898 in dimension 'minecraft:overworld'
+[01Mar2025 08:55:34.674] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/30030, l='ServerLevel[world]', x=191.67, y=173.00, z=-891.19] died: Gearling fell from a high place
+[01Mar2025 08:55:36.673] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/30053, l='ServerLevel[world]', x=194.68, y=169.50, z=-889.75] died: Gearling fell from a high place
+[01Mar2025 08:55:38.429] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/30065, l='ServerLevel[world]', x=191.30, y=173.00, z=-889.94] died: Gearling fell from a high place
+[01Mar2025 08:55:40.872] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/30083, l='ServerLevel[world]', x=191.27, y=173.00, z=-891.06] died: Gearling fell from a high place
+[01Mar2025 08:55:42.622] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/30093, l='ServerLevel[world]', x=193.45, y=169.50, z=-889.51] died: Gearling fell from a high place
+[01Mar2025 08:57:33.905] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Mar2025 08:57:33.913] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Mar2025 08:58:38.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxBrayan57Xx has made the advancement [Suit Up]
+[01Mar2025 08:59:37.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxBrayan57Xx has completed the challenge [Centennial]
+[01Mar2025 09:00:18.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxBrayan57Xx has made the advancement [Sneak 100]
