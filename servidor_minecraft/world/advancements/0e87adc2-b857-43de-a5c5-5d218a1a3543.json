@@ -224,6 +224,7 @@
       "minecraft:phantom": "2025-03-01 07:03:21 +0000",
       "minecraft:witch": "2025-03-01 07:19:45 +0000",
       "minecraft:wither_skeleton": "2025-03-01 08:46:37 +0000",
+      "minecraft:husk": "2025-03-01 09:14:23 +0000",
       "minecraft:piglin": "2025-03-01 07:27:11 +0000",
       "minecraft:zombie": "2025-03-01 07:04:47 +0000"
     },
@@ -442,7 +443,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2025-03-01 07:21:36 +0000"
+      "minecraft:nether_wastes": "2025-03-01 07:21:36 +0000",
+      "minecraft:basalt_deltas": "2025-03-01 09:19:17 +0000"
     },
     "done": false
   },
@@ -1370,6 +1372,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-03-01 08:59:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-03-01 08:26:26 +0000"
@@ -1396,6 +1404,7 @@
   },
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
+      "swamp_village": "2025-03-01 09:07:43 +0000",
       "swamp_hut": "2025-03-01 08:11:07 +0000",
       "witch_villa": "2025-03-01 08:15:31 +0000"
     },
@@ -1431,6 +1440,12 @@
     },
     "done": true
   },
+  "totw_modded:regular_tower": {
+    "criteria": {
+      "regular": "2025-03-01 09:15:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_block": "2025-03-01 08:33:05 +0000"
@@ -1458,6 +1473,12 @@
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2025-03-01 08:26:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_cut_copper_stonecutting": {
+    "criteria": {
+      "has_cut_copper": "2025-03-01 08:58:34 +0000"
     },
     "done": true
   },
@@ -1560,6 +1581,12 @@
   "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
     "criteria": {
       "has_dark_prismarine": "2025-03-01 08:33:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_from_honeycomb": {
+    "criteria": {
+      "has_cut_copper": "2025-03-01 08:58:34 +0000"
     },
     "done": true
   },
@@ -1719,6 +1746,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-03-01 08:59:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-03-01 08:26:26 +0000"
@@ -1752,6 +1785,12 @@
   "minecraft:recipes/transportation/birch_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-01 08:15:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-03-01 09:10:40 +0000"
     },
     "done": true
   },
@@ -1791,6 +1830,12 @@
     },
     "done": true
   },
+  "nova_structures:adventure/find_swamp_village": {
+    "criteria": {
+      "minecraft:village_swamp": "2025-03-01 09:07:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-03-01 08:26:26 +0000"
@@ -1812,6 +1857,12 @@
   "travelersbackpack:recipes/misc/diamond_tier_upgrade": {
     "criteria": {
       "has_diamond": "2025-03-01 08:26:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-03-01 08:59:47 +0000"
     },
     "done": true
   },
@@ -1893,6 +1944,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/honey_bottle": {
+    "criteria": {
+      "has_honey_block": "2025-03-01 09:10:40 +0000"
+    },
+    "done": true
+  },
   "lootr:50loot": {
     "criteria": {
       "loot_stat": "2025-03-01 08:21:34 +0000"
@@ -1911,6 +1968,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-03-01 09:06:04 +0000"
+    },
+    "done": true
+  },
   "nova_structures:adventure/tavern_quest": {
     "criteria": {
       "open_tavern_chest": "2025-03-01 08:09:23 +0000"
@@ -1926,6 +1989,12 @@
   "minecraft:recipes/building_blocks/waxed_cut_copper_slab": {
     "criteria": {
       "has_waxed_cut_copper": "2025-03-01 08:29:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab": {
+    "criteria": {
+      "has_cut_copper": "2025-03-01 08:58:34 +0000"
     },
     "done": true
   },
@@ -2001,6 +2070,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/haunted_house": {
+    "criteria": {
+      "haunted_house": "2025-03-01 09:16:00 +0000"
+    },
+    "done": true
+  },
   "easy_mob_farm:recipes/mob_farm/swamp_farm": {
     "criteria": {
       "has_brown_mushroom": "2025-03-01 08:08:16 +0000"
@@ -2043,6 +2118,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-03-01 09:10:40 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/magma_cube": {
     "criteria": {
       "has_magma_cream": "2025-03-01 08:19:23 +0000"
@@ -2079,6 +2160,12 @@
     },
     "done": true
   },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-03-01 09:03:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-03-01 08:33:15 +0000"
@@ -2103,6 +2190,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_stairs": {
+    "criteria": {
+      "has_cut_copper": "2025-03-01 08:58:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-03-01 08:19:00 +0000"
@@ -2118,6 +2211,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-03-01 08:26:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_cut_copper_stonecutting": {
+    "criteria": {
+      "has_cut_copper": "2025-03-01 08:58:34 +0000"
     },
     "done": true
   },
@@ -2139,6 +2238,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-03-01 09:10:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_wither_skeleton_skull": "2025-03-01 08:11:48 +0000"
@@ -2148,6 +2253,12 @@
   "graveyard:graveyard/corruption": {
     "criteria": {
       "corruption": "2025-03-01 08:30:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-03-01 08:59:47 +0000"
     },
     "done": true
   },
