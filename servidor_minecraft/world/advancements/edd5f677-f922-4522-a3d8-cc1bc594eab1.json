@@ -2090,5 +2090,84 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-03-01 18:49:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-03-01 18:55:33 +0000"
+    },
+    "done": true
+  },
+  "totw_modded:derelict_grass_tower": {
+    "criteria": {
+      "derelict_grass": "2025-03-01 18:46:52 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/ocelot": {
+    "criteria": {
+      "has_cod": "2025-03-01 18:49:19 +0000"
+    },
+    "done": true
+  },
+  "alekiships:recipes/crafting/crafting/cannon": {
+    "criteria": {
+      "has_wooden_slab": "2025-03-01 18:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:white": "2025-03-01 18:49:50 +0000",
+      "minecraft:tabby": "2025-03-01 18:49:45 +0000",
+      "minecraft:siamese": "2025-03-01 18:51:54 +0000",
+      "minecraft:jellie": "2025-03-01 18:49:32 +0000",
+      "minecraft:persian": "2025-03-01 18:50:20 +0000",
+      "minecraft:ragdoll": "2025-03-01 18:49:55 +0000",
+      "minecraft:british_shorthair": "2025-03-01 18:50:06 +0000",
+      "minecraft:red": "2025-03-01 18:49:23 +0000"
+    },
+    "done": false
+  },
+  "call_of_yucutan:obtain_both_weapons": {
+    "criteria": {
+      "obtain_both_weapons_0": "2025-03-01 18:42:46 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-03-01 18:49:23 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:suns_blessing": {
+    "criteria": {
+      "get_suns_blessing": "2025-03-01 18:47:25 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-03-01 18:47:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-03-01 18:49:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-03-01 18:49:19 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
