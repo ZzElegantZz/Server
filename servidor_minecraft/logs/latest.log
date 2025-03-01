@@ -535,3 +535,286 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft_121_update:deleted_
 [01Mar2025 08:09:26.453] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2845ms or 56 ticks behind
 [01Mar2025 08:09:28.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxBrayan57Xx has made the advancement [Call For Adventure]
 [01Mar2025 08:11:07.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel_ge has made the advancement [Corrupting the Paradise]
+[01Mar2025 08:11:47.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxBrayan57Xx has made the advancement [Corrupting the Paradise]
+[01Mar2025 08:11:48.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel_ge has made the advancement [Spooky Scary Skeleton]
+[01Mar2025 08:11:55.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxBrayan57Xx has made the advancement [Spooky Scary Skeleton]
+[01Mar2025 08:12:51.702] [Server thread/WARN] [me.pandamods.fallingtrees.api.TreeHandler/]: Tree is too big to be processed at position 679, 99, -1016 in dimension 'minecraft:overworld'
+[01Mar2025 08:12:52.189] [Server thread/WARN] [me.pandamods.fallingtrees.api.TreeHandler/]: Tree is too big to be processed at position 671, 103, -1017 in dimension 'minecraft:overworld'
+[01Mar2025 08:12:52.588] [Server thread/WARN] [me.pandamods.fallingtrees.api.TreeHandler/]: Tree is too big to be processed at position 672, 107, -1020 in dimension 'minecraft:overworld'
+[01Mar2025 08:12:53.201] [Server thread/WARN] [me.pandamods.fallingtrees.api.TreeHandler/]: Tree is too big to be processed at position 674, 93, -1019 in dimension 'minecraft:overworld'
+[01Mar2025 08:13:05.369] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[01Mar2025 08:13:32.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxBrayan57Xx has made the advancement [Not Today, Thank You]
+[01Mar2025 08:13:42.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxBrayan57Xx was blown up by Creeper
+[01Mar2025 08:13:42.493] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for XxBrayan57Xx with unique ID travelersbackpack.quartz_01.03.2025-08.13.42.dat
+[01Mar2025 08:13:42.494] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 589 Y: 69.0 Z: -955
+[01Mar2025 08:13:51.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxBrayan57Xx was slain by Iron Golem
+[01Mar2025 08:14:19.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel_ge has made the advancement [Stay dead]
+[01Mar2025 08:14:49.713] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[01Mar2025 08:14:49.964] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[01Mar2025 08:14:50.018] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[01Mar2025 08:14:50.624] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-33 absolute--50 absolute]
+[01Mar2025 08:15:12.743] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-359, y=-58, z=-502}
+[01Mar2025 08:15:13.903] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-245, y=-57, z=-597}
+[01Mar2025 08:15:13.912] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-349, y=-58, z=-497}
+[01Mar2025 08:15:13.913] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-409, y=-57, z=-497}
+[01Mar2025 08:15:13.914] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-410, y=-57, z=-496}
+[01Mar2025 08:15:13.941] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-406, y=-57, z=-496}
+[01Mar2025 08:15:13.942] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-409, y=-57, z=-497}
+[01Mar2025 08:15:13.942] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-410, y=-57, z=-496}
+[01Mar2025 08:15:14.350] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-409, y=-57, z=-497}
+[01Mar2025 08:15:14.351] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-410, y=-57, z=-496}
+[01Mar2025 08:15:14.380] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-51, z=-611}
+[01Mar2025 08:15:14.381] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-50, z=-610}
+[01Mar2025 08:15:14.381] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-373, y=-58, z=-499}
+[01Mar2025 08:15:14.494] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-361, y=-54, z=-542}
+[01Mar2025 08:15:14.494] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-361, y=-53, z=-542}
+[01Mar2025 08:15:14.576] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-362, y=-51, z=-548}
+[01Mar2025 08:15:14.587] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-407, y=-57, z=-497}
+[01Mar2025 08:15:14.587] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-406, y=-57, z=-496}
+[01Mar2025 08:15:14.588] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-346, y=-57, z=-497}
+[01Mar2025 08:15:14.589] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-247, y=-56, z=-608}
+[01Mar2025 08:15:14.589] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-403, y=-58, z=-503}
+[01Mar2025 08:15:17.832] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-234, y=-52, z=-702}
+[01Mar2025 08:15:17.833] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-221, y=-52, z=-702}
+[01Mar2025 08:15:18.040] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-349, y=-58, z=-497}
+[01Mar2025 08:15:18.041] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-403, y=-58, z=-497}
+[01Mar2025 08:15:18.080] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-359, y=-58, z=-502}
+[01Mar2025 08:15:18.089] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-52, z=-552}
+[01Mar2025 08:15:18.090] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-51, z=-552}
+[01Mar2025 08:15:18.162] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-213, y=-52, z=-702}
+[01Mar2025 08:15:18.163] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-200, y=-52, z=-702}
+[01Mar2025 08:15:18.268] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-407, y=-57, z=-497}
+[01Mar2025 08:15:18.298] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-350, y=-58, z=-499}
+[01Mar2025 08:15:18.298] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-349, y=-58, z=-499}
+[01Mar2025 08:15:18.495] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-409, y=-57, z=-497}
+[01Mar2025 08:15:18.496] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-410, y=-57, z=-496}
+[01Mar2025 08:15:18.892] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-409, y=-57, z=-497}
+[01Mar2025 08:15:18.893] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-410, y=-57, z=-496}
+[01Mar2025 08:15:27.462] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-373, y=-58, z=-499}
+[01Mar2025 08:15:27.752] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-234, y=-52, z=-702}
+[01Mar2025 08:15:27.753] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-221, y=-52, z=-702}
+[01Mar2025 08:15:28.142] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-234, y=-52, z=-702}
+[01Mar2025 08:15:28.143] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-221, y=-52, z=-702}
+[01Mar2025 08:15:31.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel_ge has made the advancement [Trouble is Brewing]
+[01Mar2025 08:15:33.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxBrayan57Xx has made the advancement [Trouble is Brewing]
+[01Mar2025 08:15:33.977] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-51, z=-611}
+[01Mar2025 08:15:33.978] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-50, z=-610}
+[01Mar2025 08:15:33.992] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-346, y=-57, z=-497}
+[01Mar2025 08:15:34.000] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-361, y=-58, z=-502}
+[01Mar2025 08:15:34.009] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-403, y=-58, z=-497}
+[01Mar2025 08:15:34.038] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-403, y=-58, z=-503}
+[01Mar2025 08:15:34.047] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-346, y=-57, z=-497}
+[01Mar2025 08:15:34.107] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-52, z=-552}
+[01Mar2025 08:15:34.107] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-51, z=-552}
+[01Mar2025 08:15:34.125] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-403, y=-58, z=-503}
+[01Mar2025 08:15:34.134] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-245, y=-57, z=-593}
+[01Mar2025 08:15:34.135] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-403, y=-58, z=-497}
+[01Mar2025 08:15:34.145] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-350, y=-58, z=-499}
+[01Mar2025 08:15:34.145] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-349, y=-58, z=-499}
+[01Mar2025 08:15:34.148] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-361, y=-54, z=-542}
+[01Mar2025 08:15:34.148] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-361, y=-53, z=-542}
+[01Mar2025 08:15:34.163] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-361, y=-54, z=-542}
+[01Mar2025 08:15:34.163] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-361, y=-53, z=-542}
+[01Mar2025 08:15:34.163] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-373, y=-58, z=-499}
+[01Mar2025 08:15:34.164] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-350, y=-58, z=-499}
+[01Mar2025 08:15:34.164] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-349, y=-58, z=-499}
+[01Mar2025 08:15:34.271] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-350, y=-58, z=-499}
+[01Mar2025 08:15:34.272] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-349, y=-58, z=-499}
+[01Mar2025 08:15:34.351] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-409, y=-57, z=-497}
+[01Mar2025 08:15:34.352] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-410, y=-57, z=-496}
+[01Mar2025 08:15:34.358] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-346, y=-57, z=-497}
+[01Mar2025 08:15:34.377] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-409, y=-57, z=-497}
+[01Mar2025 08:15:34.378] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-410, y=-57, z=-496}
+[01Mar2025 08:15:34.379] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-245, y=-56, z=-571}
+[01Mar2025 08:15:34.380] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-406, y=-57, z=-496}
+[01Mar2025 08:15:34.402] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-52, z=-552}
+[01Mar2025 08:15:34.403] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-51, z=-552}
+[01Mar2025 08:15:34.417] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-359, y=-58, z=-502}
+[01Mar2025 08:15:34.425] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-247, y=-58, z=-588}
+[01Mar2025 08:15:34.882] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-407, y=-57, z=-497}
+[01Mar2025 08:15:34.886] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-403, y=-58, z=-497}
+[01Mar2025 08:15:34.920] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-403, y=-58, z=-497}
+[01Mar2025 08:15:34.925] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-51, z=-611}
+[01Mar2025 08:15:34.926] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-50, z=-610}
+[01Mar2025 08:15:34.929] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-349, y=-58, z=-497}
+[01Mar2025 08:15:34.930] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-361, y=-58, z=-502}
+[01Mar2025 08:15:37.847] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=23, y=-53, z=-16}
+[01Mar2025 08:15:43.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone has made the advancement [Take Aim]
+[01Mar2025 08:15:47.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel_ge has made the advancement [Barrel Booty]
+[01Mar2025 08:15:58.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxBrayan57Xx has made the advancement [Barrel Booty]
+[01Mar2025 08:16:10.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel_ge has made the advancement [Disme A Dozen]
+[01Mar2025 08:16:37.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxBrayan57Xx has made the advancement [Disme A Dozen]
+[01Mar2025 08:16:42.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone has made the advancement [Sweet Dreams]
+[01Mar2025 08:16:46.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel_ge has made the advancement [Close Quarters]
+[01Mar2025 08:17:49.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxBrayan57Xx has made the advancement [Close Quarters]
+[01Mar2025 08:18:41.470] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-52, z=-552}
+[01Mar2025 08:18:41.471] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-51, z=-552}
+[01Mar2025 08:18:41.503] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-407, y=-57, z=-497}
+[01Mar2025 08:18:41.503] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-406, y=-57, z=-496}
+[01Mar2025 08:18:41.519] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-349, y=-58, z=-497}
+[01Mar2025 08:18:41.626] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-407, y=-57, z=-497}
+[01Mar2025 08:18:41.626] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-406, y=-57, z=-496}
+[01Mar2025 08:18:41.627] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-403, y=-58, z=-497}
+[01Mar2025 08:18:41.629] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-349, y=-58, z=-497}
+[01Mar2025 08:18:41.656] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-407, y=-57, z=-497}
+[01Mar2025 08:18:41.656] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-406, y=-57, z=-496}
+[01Mar2025 08:18:41.902] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-361, y=-58, z=-502}
+[01Mar2025 08:18:41.930] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-349, y=-58, z=-497}
+[01Mar2025 08:18:41.967] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-349, y=-58, z=-497}
+[01Mar2025 08:18:41.969] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-245, y=-56, z=-571}
+[01Mar2025 08:18:41.985] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-362, y=-51, z=-548}
+[01Mar2025 08:18:41.985] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-346, y=-57, z=-497}
+[01Mar2025 08:18:42.009] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-362, y=-51, z=-548}
+[01Mar2025 08:18:42.023] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-403, y=-58, z=-503}
+[01Mar2025 08:18:42.262] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-346, y=-57, z=-497}
+[01Mar2025 08:18:42.286] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-409, y=-57, z=-497}
+[01Mar2025 08:18:42.287] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-410, y=-57, z=-496}
+[01Mar2025 08:18:42.289] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-350, y=-58, z=-499}
+[01Mar2025 08:18:42.289] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-349, y=-58, z=-499}
+[01Mar2025 08:18:42.289] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-373, y=-58, z=-499}
+[01Mar2025 08:18:42.316] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-409, y=-57, z=-497}
+[01Mar2025 08:18:42.316] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-410, y=-57, z=-496}
+[01Mar2025 08:18:42.320] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-350, y=-58, z=-499}
+[01Mar2025 08:18:42.320] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-349, y=-58, z=-499}
+[01Mar2025 08:18:42.332] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-361, y=-58, z=-502}
+[01Mar2025 08:18:43.002] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-346, y=-57, z=-497}
+[01Mar2025 08:18:43.002] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-346, y=-57, z=-497}
+[01Mar2025 08:18:43.017] [Worker-Main-2/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.602844f,range:8,source:{pos:[I;-404,-59,-499],type:"minecraft:block"}}]
+[01Mar2025 08:18:43.034] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-403, y=-58, z=-497}
+[01Mar2025 08:18:46.504] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-234, y=-52, z=-702}
+[01Mar2025 08:18:46.505] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-221, y=-52, z=-702}
+[01Mar2025 08:18:46.995] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-234, y=-52, z=-702}
+[01Mar2025 08:18:46.995] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-221, y=-52, z=-702}
+[01Mar2025 08:21:34.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel_ge has made the advancement [Penteconter]
+[01Mar2025 08:21:53.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxBrayan57Xx has made the advancement [Penteconter]
+[01Mar2025 08:24:02.692] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-373, y=-58, z=-499}
+[01Mar2025 08:24:06.259] [Worker-Main-1/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.602844f,range:8,source:{pos:[I;-404,-59,-499],type:"minecraft:block"}}]
+[01Mar2025 08:24:06.354] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-403, y=-58, z=-503}
+[01Mar2025 08:24:10.028] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-418, y=-50, z=-208}
+[01Mar2025 08:24:10.040] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-283, y=-56, z=-275}
+[01Mar2025 08:24:10.181] [Worker-Main-2/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-425,-56,-205],type:"minecraft:block"}}]
+[01Mar2025 08:24:10.187] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-204}
+[01Mar2025 08:24:10.187] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=-45, z=-203}
+[01Mar2025 08:24:10.187] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
+[01Mar2025 08:24:23.592] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-413, y=-49, z=-217}
+[01Mar2025 08:24:23.604] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-50, z=-279}
+[01Mar2025 08:24:23.605] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-57, z=-280}
+[01Mar2025 08:24:23.703] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-423, y=-50, z=-211}
+[01Mar2025 08:24:23.704] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-420, y=-50, z=-211}
+[01Mar2025 08:24:23.718] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-289, y=-57, z=-281}
+[01Mar2025 08:24:23.719] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-56, z=-283}
+[01Mar2025 08:24:23.719] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-57, z=-283}
+[01Mar2025 08:24:29.749] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-323, y=-57, z=-753}
+[01Mar2025 08:24:29.749] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-323, y=-56, z=-754}
+[01Mar2025 08:24:29.792] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-323, y=-57, z=-751}
+[01Mar2025 08:24:33.106] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-322, y=-56, z=-753}
+[01Mar2025 08:24:33.106] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-322, y=-56, z=-755}
+[01Mar2025 08:24:33.107] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-322, y=-55, z=-752}
+[01Mar2025 08:24:33.111] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-362, y=-51, z=-548}
+[01Mar2025 08:24:33.111] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-361, y=-54, z=-542}
+[01Mar2025 08:24:33.111] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-361, y=-53, z=-542}
+[01Mar2025 08:24:33.115] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-362, y=-51, z=-548}
+[01Mar2025 08:24:33.115] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-361, y=-54, z=-542}
+[01Mar2025 08:24:33.115] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-361, y=-53, z=-542}
+[01Mar2025 08:24:33.194] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-234, y=-52, z=-702}
+[01Mar2025 08:24:33.194] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-221, y=-52, z=-702}
+[01Mar2025 08:24:47.413] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=80, y=131, z=580}
+[01Mar2025 08:24:48.100] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=73, y=131, z=583}
+[01Mar2025 08:24:48.101] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=77, y=131, z=582}
+[01Mar2025 08:24:48.101] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=78, y=131, z=585}
+[01Mar2025 08:25:35.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [XxBrayan57Xx: Teleported Samuel_ge to XxBrayan57Xx]
+[01Mar2025 08:25:45.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxBrayan57Xx has made the advancement [Welcome To The Machine]
+[01Mar2025 08:25:48.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel_ge has made the advancement [Welcome To The Machine]
+[01Mar2025 08:26:26.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel_ge has made the advancement [Diamonds!]
+[01Mar2025 08:26:54.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otakulone: Teleported Otakulone to XxBrayan57Xx]
+[01Mar2025 08:26:54.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone has made the advancement [Welcome To The Machine]
+[01Mar2025 08:27:00.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone has made the advancement ['X' Marks the Spot]
+[01Mar2025 08:27:54.988] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-645} is full and can't process results
+[01Mar2025 08:28:00.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxBrayan57Xx was slain by Skeleton
+[01Mar2025 08:28:00.988] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for XxBrayan57Xx with unique ID travelersbackpack.quartz_01.03.2025-08.28.00.dat
+[01Mar2025 08:28:00.988] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 248 Y: 207.0625 Z: -949
+[01Mar2025 08:28:29.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxBrayan57Xx was slain by Skeleton
+[01Mar2025 08:28:35.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone has completed the challenge [What a Nugget, Once Again!]
+[01Mar2025 08:28:43.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxBrayan57Xx was slain by Skeleton
+[01Mar2025 08:29:21.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxBrayan57Xx has made the advancement [Stay dead]
+[01Mar2025 08:30:14.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel_ge has made the advancement [Source of Evil]
+[01Mar2025 08:32:15.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [XxBrayan57Xx: Teleported Samuel_ge to XxBrayan57Xx]
+[01Mar2025 08:32:28.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otakulone: Teleported Otakulone to XxBrayan57Xx]
+[01Mar2025 08:33:52.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxBrayan57Xx was slain by Skeleton
+[01Mar2025 08:33:52.883] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for XxBrayan57Xx with unique ID travelersbackpack.quartz_01.03.2025-08.33.52.dat
+[01Mar2025 08:33:52.883] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 235 Y: 241.0 Z: -890
+[01Mar2025 08:34:07.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxBrayan57Xx was slain by Skeleton
+[01Mar2025 08:35:21.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone has made the advancement [Diamonds!]
+[01Mar2025 08:35:24.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxBrayan57Xx was slain by Wither Skeleton
+[01Mar2025 08:35:24.131] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for XxBrayan57Xx with unique ID travelersbackpack.quartz_01.03.2025-08.35.24.dat
+[01Mar2025 08:35:24.131] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 243 Y: 224.0 Z: -900
+[01Mar2025 08:35:30.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel_ge was slain by Wither Skeleton
+[01Mar2025 08:35:30.789] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Samuel_ge with unique ID travelersbackpack.quartz_01.03.2025-08.35.30.dat
+[01Mar2025 08:35:30.789] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 246 Y: 224.0 Z: -895
+[01Mar2025 08:35:39.880] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-645} is full and can't process results
+[01Mar2025 08:35:45.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxBrayan57Xx was slain by Wither Skeleton
+[01Mar2025 08:35:45.234] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for XxBrayan57Xx with unique ID travelersbackpack.quartz_01.03.2025-08.35.45.dat
+[01Mar2025 08:35:45.234] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 241 Y: 224.0 Z: -894
+[01Mar2025 08:35:54.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone was slain by Wither Skeleton
+[01Mar2025 08:35:54.585] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Otakulone with unique ID travelersbackpack.quartz_01.03.2025-08.35.54.dat
+[01Mar2025 08:35:54.585] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 241 Y: 224.0 Z: -903
+[01Mar2025 08:35:55.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxBrayan57Xx was slain by Wither Skeleton
+[01Mar2025 08:36:26.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otakulone: Teleported Otakulone to 241.500000, 224.000000, -902.500000]
+[01Mar2025 08:36:32.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [XxBrayan57Xx: Teleported Samuel_ge to XxBrayan57Xx]
+[01Mar2025 08:37:17.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxBrayan57Xx was shot by Skeleton
+[01Mar2025 08:37:17.282] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for XxBrayan57Xx with unique ID travelersbackpack.quartz_01.03.2025-08.37.17.dat
+[01Mar2025 08:37:17.282] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 241 Y: 212.0 Z: -904
+[01Mar2025 08:37:25.030] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Otakulone lost connection: Disconnected
+[01Mar2025 08:37:25.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone left the game
+[01Mar2025 08:37:27.781] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-645} is full and can't process results
+[01Mar2025 08:37:58.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxBrayan57Xx went off with a bang
+[01Mar2025 08:39:40.535] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Otakulone is edd5f677-f922-4522-a3d8-cc1bc594eab1
+[01Mar2025 08:39:42.730] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Otakulone[/192.168.193.140:61019] logged in with entity id 22297 at (236.7208087648911, 226.5, -893.332144277822)
+[01Mar2025 08:39:42.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone joined the game
+[01Mar2025 08:39:42.787] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Otakulone
+[01Mar2025 08:39:42.788] [Server thread/INFO] [Jade/]: Syncing config to Otakulone (edd5f677-f922-4522-a3d8-cc1bc594eab1)
+[01Mar2025 08:39:44.106] [Netty Epoll Server IO #7/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Otakulone
+[01Mar2025 08:40:20.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel_ge was blown up by Creeper
+[01Mar2025 08:40:20.750] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Samuel_ge with unique ID travelersbackpack.quartz_01.03.2025-08.40.20.dat
+[01Mar2025 08:40:20.750] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 236 Y: 191.5 Z: -896
+[01Mar2025 08:40:29.783] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-645} is full and can't process results
+[01Mar2025 08:40:31.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxBrayan57Xx was slain by Wither Skeleton
+[01Mar2025 08:40:31.482] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for XxBrayan57Xx with unique ID travelersbackpack.quartz_01.03.2025-08.40.31.dat
+[01Mar2025 08:40:31.482] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 244 Y: 190.0625 Z: -892
+[01Mar2025 08:40:57.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxBrayan57Xx was slain by Wither Skeleton
+[01Mar2025 08:41:09.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxBrayan57Xx was slain by Wither Skeleton
+[01Mar2025 08:41:24.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone fell from a high place
+[01Mar2025 08:41:24.809] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Otakulone with unique ID travelersbackpack.quartz_01.03.2025-08.41.24.dat
+[01Mar2025 08:41:24.809] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 845 Y: 67.0 Z: -639
+[01Mar2025 08:41:39.887] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-639} is full and can't process results
+[01Mar2025 08:41:53.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel_ge has made the advancement [A trip to the Countryside]
+[01Mar2025 08:42:15.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [XxBrayan57Xx: Teleported Samuel_ge to XxBrayan57Xx]
+[01Mar2025 08:43:10.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxBrayan57Xx was slain by Wither Skeleton
+[01Mar2025 08:43:10.433] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for XxBrayan57Xx with unique ID travelersbackpack.quartz_01.03.2025-08.43.10.dat
+[01Mar2025 08:43:10.433] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 235 Y: 189.03666714094032 Z: -900
+[01Mar2025 08:45:06.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel_ge was slain by Wither Skeleton
+[01Mar2025 08:45:07.383] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/22917, l='ServerLevel[world]', x=248.80, y=187.50, z=-896.52] died: Gearling was shot by XxBrayan57Xx
+[01Mar2025 08:45:23.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [XxBrayan57Xx: Teleported Samuel_ge to XxBrayan57Xx]
+[01Mar2025 08:46:23.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxBrayan57Xx was slain by Wither Skeleton
+[01Mar2025 08:46:23.530] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for XxBrayan57Xx with unique ID travelersbackpack.quartz_01.03.2025-08.46.23.dat
+[01Mar2025 08:46:23.530] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 241 Y: 190.0 Z: -902
+[01Mar2025 08:46:40.185] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-641} is full and can't process results
+[01Mar2025 08:47:07.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxBrayan57Xx was slain by Gearling
+[01Mar2025 08:47:07.049] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for XxBrayan57Xx with unique ID travelersbackpack.quartz_01.03.2025-08.47.07.dat
+[01Mar2025 08:47:07.049] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 247 Y: 186.0 Z: -894
+[01Mar2025 08:47:10.484] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/22762, l='ServerLevel[world]', x=247.76, y=186.94, z=-893.72] died: Gearling was slain by Samuel_ge
+[01Mar2025 08:47:10.485] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/24419, l='ServerLevel[world]', x=247.85, y=186.88, z=-892.95] died: Gearling was slain by Samuel_ge
+[01Mar2025 08:47:10.486] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/23309, l='ServerLevel[world]', x=247.28, y=186.62, z=-893.85] died: Gearling was slain by Samuel_ge
+[01Mar2025 08:47:10.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel_ge was slain by Wither Skeleton
+[01Mar2025 08:47:10.634] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Samuel_ge with unique ID travelersbackpack.quartz_01.03.2025-08.47.10.dat
+[01Mar2025 08:47:10.635] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 247 Y: 185.5 Z: -893
+[01Mar2025 08:47:18.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [XxBrayan57Xx: Set own game mode to Creative Mode]
+[01Mar2025 08:48:03.693] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Otakulone lost connection: Disconnected
+[01Mar2025 08:48:03.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone left the game
+[01Mar2025 08:48:40.005] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/26156, l='ServerLevel[world]', x=250.85, y=182.50, z=-896.54] died: Gearling was slain by XxBrayan57Xx
+[01Mar2025 08:48:53.656] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/26510, l='ServerLevel[world]', x=250.56, y=183.77, z=-894.60] died: Gearling was slain by XxBrayan57Xx
+[01Mar2025 08:49:05.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [XxBrayan57Xx: Teleported Samuel_ge to XxBrayan57Xx]
+[01Mar2025 08:49:39.784] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-645} is full and can't process results
+[01Mar2025 08:49:39.986] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-639} is full and can't process results
+[01Mar2025 08:50:04.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel_ge was slain by Gearling
+[01Mar2025 08:51:11.227] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-641} is full and can't process results
