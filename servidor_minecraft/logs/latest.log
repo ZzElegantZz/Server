@@ -670,3 +670,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft_121_update:deleted_
 [04Mar2025 19:20:28.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otakulone: Set own game mode to Creative Mode]
 [04Mar2025 19:21:10.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otakulone: Set own game mode to Survival Mode]
 [04Mar2025 19:22:07.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otakulone: Set own game mode to Creative Mode]
+[04Mar2025 19:29:41.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otakulone: Set own game mode to Survival Mode]
+[04Mar2025 19:30:50.456] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Otakulone moved too quickly! 1.5743663040074125,0.8800391385729398,9.950404060686878
+[04Mar2025 19:31:04.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otakulone: Set own game mode to Creative Mode]
+[04Mar2025 19:31:34.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otakulone: Set own game mode to Survival Mode]
+[04Mar2025 19:34:07.354] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Otakulone moved too quickly! 0.4395493884433108,-0.3693736602695097,-10.109032689564401

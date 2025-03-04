@@ -5044,3 +5044,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft_121_update:deleted_
 [04Mar2025 19:21:15.168] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Mar2025 19:21:15.176] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [04Mar2025 19:22:07.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otakulone: Set own game mode to Creative Mode]
+[04Mar2025 19:26:15.183] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Mar2025 19:26:15.193] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Mar2025 19:29:41.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otakulone: Set own game mode to Survival Mode]
+[04Mar2025 19:30:50.456] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Otakulone moved too quickly! 1.5743663040074125,0.8800391385729398,9.950404060686878
+[04Mar2025 19:31:04.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otakulone: Set own game mode to Creative Mode]
+[04Mar2025 19:31:15.162] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Mar2025 19:31:15.171] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Mar2025 19:31:34.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otakulone: Set own game mode to Survival Mode]
+[04Mar2025 19:34:07.354] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Otakulone moved too quickly! 0.4395493884433108,-0.3693736602695097,-10.109032689564401
+[04Mar2025 19:34:41.910] [Server thread/DEBUG] [mixin/]: Mixing PiglinAiMixin from AdditionalAdditions.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
