@@ -2393,21 +2393,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+  "farmersdelight:recipes/decorations/acacia_cabinet": {
     "criteria": {
-      "has_gold_block": "2025-03-04 19:46:14 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/steak_and_potatoes": {
-    "criteria": {
-      "has_baked_potato": "2025-03-04 19:51:19 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/roast_chicken_block": {
-    "criteria": {
-      "has_cooked_chicken": "2025-03-04 19:45:37 +0000"
+      "has_acacia_trapdoor": "2025-03-04 19:45:34 +0000"
     },
     "done": true
   },
@@ -2423,27 +2411,27 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/enderman": {
-    "criteria": {
-      "has_ender_pearl": "2025-03-04 19:45:37 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_cut_copper_stonecutting": {
     "criteria": {
       "has_waxed_cut_copper": "2025-03-04 19:45:35 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/decorations/acacia_cabinet": {
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs": {
     "criteria": {
-      "has_acacia_trapdoor": "2025-03-04 19:45:34 +0000"
+      "has_waxed_cut_copper": "2025-03-04 19:45:35 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/stuffed_potato": {
+  "farmersdelight:recipes/food/roast_chicken_block": {
     "criteria": {
-      "has_baked_potato": "2025-03-04 19:51:19 +0000"
+      "has_cooked_chicken": "2025-03-04 19:45:37 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2025-03-04 19:45:37 +0000"
     },
     "done": true
   },
@@ -2453,9 +2441,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs": {
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
-      "has_waxed_cut_copper": "2025-03-04 19:45:35 +0000"
+      "has_gold_block": "2025-03-04 19:46:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-03-04 19:51:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-03-04 19:51:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_meal": {
+    "criteria": {
+      "has_item": "2025-03-04 20:43:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2025-03-04 20:43:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
+    "criteria": {
+      "has_item": "2025-03-04 20:43:44 +0000"
     },
     "done": true
   },
