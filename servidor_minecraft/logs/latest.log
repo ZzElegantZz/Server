@@ -665,3 +665,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft_121_update:deleted_
 [04Mar2025 19:06:25.241] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-645} is full and can't process results
 [04Mar2025 19:07:04.576] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Otakulone moved too quickly! -9.859451079062978,3.8172632718865174,0.7058726308123369
 [04Mar2025 19:11:29.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otakulone: Set own game mode to Survival Mode]
+[04Mar2025 19:17:37.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otakulone: Set own game mode to Creative Mode]
+[04Mar2025 19:17:50.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otakulone: Set own game mode to Survival Mode]
+[04Mar2025 19:20:28.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otakulone: Set own game mode to Creative Mode]
+[04Mar2025 19:21:10.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otakulone: Set own game mode to Survival Mode]
+[04Mar2025 19:22:07.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otakulone: Set own game mode to Creative Mode]
