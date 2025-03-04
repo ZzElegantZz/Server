@@ -675,3 +675,41 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft_121_update:deleted_
 [04Mar2025 19:31:04.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otakulone: Set own game mode to Creative Mode]
 [04Mar2025 19:31:34.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otakulone: Set own game mode to Survival Mode]
 [04Mar2025 19:34:07.354] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Otakulone moved too quickly! 0.4395493884433108,-0.3693736602695097,-10.109032689564401
+[04Mar2025 19:36:40.197] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Otakulone moved too quickly! -7.529089108535345,1.2491870787446828,6.874674142655408
+[04Mar2025 19:36:44.237] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Otakulone was kicked for floating too long!
+[04Mar2025 19:36:44.288] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Otakulone lost connection: Flying is not enabled on this server
+[04Mar2025 19:36:44.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone left the game
+[04Mar2025 19:36:49.368] [User Authenticator #10/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Otakulone is edd5f677-f922-4522-a3d8-cc1bc594eab1
+[04Mar2025 19:36:51.382] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Otakulone[/192.168.193.140:63481] logged in with entity id 15330 at (833.1934905399635, 68.16610926093821, -646.5992924975494)
+[04Mar2025 19:36:51.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone joined the game
+[04Mar2025 19:36:51.398] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Otakulone
+[04Mar2025 19:36:51.399] [Server thread/INFO] [Jade/]: Syncing config to Otakulone (edd5f677-f922-4522-a3d8-cc1bc594eab1)
+[04Mar2025 19:36:51.719] [Netty Epoll Server IO #5/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Otakulone
+[04Mar2025 19:36:59.240] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-645} is full and can't process results
+[04Mar2025 19:36:59.241] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-639} is full and can't process results
+[04Mar2025 19:36:59.435] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-640} is full and can't process results
+[04Mar2025 19:36:59.486] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-641} is full and can't process results
+[04Mar2025 19:37:15.087] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Otakulone lost connection: Disconnected
+[04Mar2025 19:37:15.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone left the game
+[04Mar2025 19:37:21.153] [User Authenticator #11/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Otakulone is edd5f677-f922-4522-a3d8-cc1bc594eab1
+[04Mar2025 19:37:23.432] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Otakulone[/192.168.193.140:63494] logged in with entity id 15977 at (819.6138564275957, 67.5625, -647.8204395178722)
+[04Mar2025 19:37:23.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone joined the game
+[04Mar2025 19:37:23.447] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Otakulone
+[04Mar2025 19:37:23.448] [Server thread/INFO] [Jade/]: Syncing config to Otakulone (edd5f677-f922-4522-a3d8-cc1bc594eab1)
+[04Mar2025 19:37:23.796] [Netty Epoll Server IO #7/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Otakulone
+[04Mar2025 19:37:30.435] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-640} is full and can't process results
+[04Mar2025 19:37:30.534] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-641} is full and can't process results
+[04Mar2025 19:37:31.086] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-645} is full and can't process results
+[04Mar2025 19:37:31.390] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-639} is full and can't process results
+[04Mar2025 19:38:31.136] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Otakulone lost connection: Disconnected
+[04Mar2025 19:38:31.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone left the game
+[04Mar2025 19:38:35.370] [User Authenticator #12/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Otakulone is edd5f677-f922-4522-a3d8-cc1bc594eab1
+[04Mar2025 19:38:37.381] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Otakulone[/192.168.193.140:63515] logged in with entity id 16714 at (820.5178855901606, 67.5625, -644.748259611542)
+[04Mar2025 19:38:37.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone joined the game
+[04Mar2025 19:38:37.395] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Otakulone
+[04Mar2025 19:38:37.395] [Server thread/INFO] [Jade/]: Syncing config to Otakulone (edd5f677-f922-4522-a3d8-cc1bc594eab1)
+[04Mar2025 19:38:37.655] [Netty Epoll Server IO #1/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Otakulone
+[04Mar2025 19:38:45.234] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-645} is full and can't process results
+[04Mar2025 19:38:45.338] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-639} is full and can't process results
+[04Mar2025 19:38:45.484] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-640} is full and can't process results
+[04Mar2025 19:38:45.535] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-641} is full and can't process results
