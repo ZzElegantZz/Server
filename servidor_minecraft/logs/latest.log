@@ -713,3 +713,19 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft_121_update:deleted_
 [04Mar2025 19:38:45.338] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-639} is full and can't process results
 [04Mar2025 19:38:45.484] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-640} is full and can't process results
 [04Mar2025 19:38:45.535] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-641} is full and can't process results
+[04Mar2025 20:06:54.737] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Otakulone lost connection: Disconnected
+[04Mar2025 20:06:54.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone left the game
+[04Mar2025 20:08:31.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[04Mar2025 20:08:31.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[04Mar2025 20:08:31.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[04Mar2025 20:08:31.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[04Mar2025 20:08:32.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04Mar2025 20:08:32.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[04Mar2025 20:08:32.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04Mar2025 20:08:32.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04Mar2025 20:08:32.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04Mar2025 20:08:32.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[04Mar2025 20:08:32.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04Mar2025 20:08:32.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04Mar2025 20:08:32.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04Mar2025 20:08:32.854] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
