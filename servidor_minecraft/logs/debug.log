@@ -4485,3 +4485,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft_121_update:deleted_
 [05Mar2025 06:17:28.453] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=897, y=79, z=-638} is full and can't process results
 [05Mar2025 06:18:42.187] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Mar2025 06:18:42.196] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Mar2025 06:21:11.954] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=898, y=79, z=-638} is full and can't process results
+[05Mar2025 06:23:42.179] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Mar2025 06:23:42.188] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Mar2025 06:24:28.802] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=896, y=79, z=-638} is full and can't process results
+[05Mar2025 06:28:42.185] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Mar2025 06:28:42.194] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

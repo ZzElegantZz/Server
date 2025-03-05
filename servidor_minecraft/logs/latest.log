@@ -514,3 +514,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft_121_update:deleted_
 [05Mar2025 05:58:11.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone has made the advancement [Taking from the Dead]
 [05Mar2025 06:02:44.850] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-646} is full and can't process results
 [05Mar2025 06:17:28.453] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=897, y=79, z=-638} is full and can't process results
+[05Mar2025 06:21:11.954] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=898, y=79, z=-638} is full and can't process results
+[05Mar2025 06:24:28.802] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=896, y=79, z=-638} is full and can't process results
