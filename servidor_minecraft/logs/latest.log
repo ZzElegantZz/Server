@@ -517,3 +517,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft_121_update:deleted_
 [05Mar2025 01:57:13.668] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-234, y=-52, z=-702}
 [05Mar2025 01:57:13.669] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-221, y=-52, z=-702}
 [05Mar2025 01:58:05.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone has made the advancement [Trouble is Brewing]
+[05Mar2025 02:00:44.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone has made the advancement [Barrel Booty]
+[05Mar2025 02:04:22.715] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Otakulone lost connection: Disconnected
+[05Mar2025 02:04:22.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone left the game
+[05Mar2025 02:07:38.968] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Otakulone is edd5f677-f922-4522-a3d8-cc1bc594eab1
+[05Mar2025 02:07:41.268] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Otakulone[/192.168.193.140:54318] logged in with entity id 15602 at (369.69999998807907, 69.0, -1084.300000011921)
+[05Mar2025 02:07:41.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone joined the game
+[05Mar2025 02:07:41.298] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Otakulone
+[05Mar2025 02:07:41.300] [Server thread/INFO] [Jade/]: Syncing config to Otakulone (edd5f677-f922-4522-a3d8-cc1bc594eab1)
+[05Mar2025 02:07:41.911] [Netty Epoll Server IO #1/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Otakulone
+[05Mar2025 02:16:55.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone has made the advancement [Close Quarters]
