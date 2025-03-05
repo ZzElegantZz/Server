@@ -2568,9 +2568,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2025-03-05 02:24:00 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/ghast": {
     "criteria": {
       "has_ghast_tear": "2025-03-05 02:11:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-03-05 02:21:11 +0000"
     },
     "done": true
   },
@@ -2610,6 +2622,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/turtle_helmet": {
+    "criteria": {
+      "has_scute": "2025-03-05 02:23:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-05 02:14:51 +0000"
@@ -2628,15 +2646,33 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-05 02:21:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-05 02:14:51 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-03-05 02:21:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-05 02:14:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-05 02:24:00 +0000"
     },
     "done": true
   },
@@ -2652,9 +2688,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-03-05 02:21:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2025-03-05 02:12:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-05 02:24:00 +0000"
     },
     "done": true
   },
@@ -2670,6 +2718,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/squid": {
+    "criteria": {
+      "has_ink_sac": "2025-03-05 02:21:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2025-03-05 02:12:12 +0000"
@@ -2679,6 +2733,24 @@
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-03-05 02:12:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-03-05 02:21:12 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-03-05 02:23:53 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-03-05 02:16:55 +0000"
     },
     "done": true
   },
@@ -2724,6 +2796,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-03-05 02:21:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate_slab": "2025-03-05 02:15:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-03-05 02:14:35 +0000"
@@ -2733,6 +2817,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-03-05 02:12:12 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cow": {
+    "criteria": {
+      "has_milk_bucket": "2025-03-05 02:24:00 +0000"
     },
     "done": true
   },
