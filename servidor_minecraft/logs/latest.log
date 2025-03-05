@@ -530,3 +530,48 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft_121_update:deleted_
 [05Mar2025 18:49:06.986] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-641} is full and can't process results
 [05Mar2025 18:49:07.338] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=897, y=79, z=-638} is full and can't process results
 [05Mar2025 18:57:58.768] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-646} is full and can't process results
+[05Mar2025 19:20:07.518] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Mar2025 19:22:05.527] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[05Mar2025 19:23:12.421] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-33 absolute--50 absolute]
+[05Mar2025 19:23:34.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone has made the advancement [Forgotten Wars and Kingdoms]
+[05Mar2025 19:25:38.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone has made the advancement [Mine? Mine? Mine?]
+[05Mar2025 19:26:10.499] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=215, y=-53, z=262}
+[05Mar2025 19:26:36.237] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/empty
+[05Mar2025 19:26:36.394] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/empty
+[05Mar2025 19:26:36.976] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/empty
+[05Mar2025 19:26:36.977] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/empty
+[05Mar2025 19:26:37.264] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/empty
+[05Mar2025 19:26:37.265] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/empty
+[05Mar2025 19:26:37.326] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/empty
+[05Mar2025 19:26:37.326] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/empty
+[05Mar2025 19:26:37.327] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/empty
+[05Mar2025 19:26:37.327] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/empty
+[05Mar2025 19:26:37.328] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/empty
+[05Mar2025 19:26:37.328] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/empty
+[05Mar2025 19:27:29.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone has completed the challenge [Free Willy]
+[05Mar2025 19:27:45.948] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=217, y=48, z=159}
+[05Mar2025 19:29:16.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone was slain by Dread Ghoul
+[05Mar2025 19:29:16.542] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Otakulone with unique ID travelersbackpack.quartz_05.03.2025-19.29.16.dat
+[05Mar2025 19:29:16.543] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 2774 Y: 70.12340587538075 Z: -8
+[05Mar2025 19:31:03.208] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2622, y=9, z=-460} but found not block entity block Block{minecraft:water}[level=8] at location
+[05Mar2025 19:31:03.209] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=2622, y=9, z=-460}
+[05Mar2025 19:31:03.209] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2622, y=9, z=-463} but found not block entity block Block{minecraft:water}[level=8] at location
+[05Mar2025 19:31:03.209] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=2622, y=9, z=-463}
+[05Mar2025 19:31:29.293] [Worker-Main-13/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=3147, y=-25, z=37}
+[05Mar2025 19:35:03.951] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/empty
+[05Mar2025 19:35:56.168] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Otakulone lost connection: Disconnected
+[05Mar2025 19:35:56.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone left the game
+[05Mar2025 19:36:00.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[05Mar2025 19:36:00.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[05Mar2025 19:36:00.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[05Mar2025 19:36:00.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[05Mar2025 19:36:01.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05Mar2025 19:36:03.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05Mar2025 19:36:03.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05Mar2025 19:36:03.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[05Mar2025 19:36:03.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05Mar2025 19:36:03.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05Mar2025 19:36:03.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05Mar2025 19:36:03.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[05Mar2025 19:36:03.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[05Mar2025 19:36:03.720] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

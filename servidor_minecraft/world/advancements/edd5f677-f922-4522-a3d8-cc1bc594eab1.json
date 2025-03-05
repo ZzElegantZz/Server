@@ -38,6 +38,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-03-05 06:42:21 +0000",
+      "minecraft:frozen_river": "2025-03-05 19:22:02 +0000",
       "minecraft:beach": "2025-03-05 06:42:31 +0000",
       "minecraft:dark_forest": "2025-03-01 05:04:42 +0000",
       "minecraft:sparse_jungle": "2025-03-01 05:02:59 +0000",
@@ -52,7 +53,8 @@
       "minecraft:deep_cold_ocean": "2025-03-05 06:49:48 +0000",
       "minecraft:frozen_ocean": "2025-03-05 06:50:50 +0000",
       "minecraft:deep_frozen_ocean": "2025-03-05 06:50:36 +0000",
-      "minecraft:jungle": "2025-03-01 05:02:29 +0000"
+      "minecraft:jungle": "2025-03-01 05:02:29 +0000",
+      "minecraft:snowy_beach": "2025-03-05 19:21:41 +0000"
     },
     "done": false
   },
@@ -2438,7 +2440,8 @@
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_fishing_ship": "2025-03-05 06:47:35 +0000",
-      "entered_tall_witch_hut": "2025-03-05 01:55:07 +0000"
+      "entered_tall_witch_hut": "2025-03-05 01:55:07 +0000",
+      "entered_castle": "2025-03-05 19:23:34 +0000"
     },
     "done": false
   },
@@ -3610,6 +3613,180 @@
   "easy_mob_farm:recipes/upgrade/enchancement/sword_enhancement": {
     "criteria": {
       "has_quartz": "2025-03-05 07:39:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_slab": {
+    "criteria": {
+      "has_item": "2025-03-05 19:29:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ash_to_charcoal": {
+    "criteria": {
+      "has_item": "2025-03-05 19:29:52 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2025-03-05 19:27:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2025-03-05 19:29:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_stairs": {
+    "criteria": {
+      "has_item": "2025-03-05 19:29:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-03-05 19:28:11 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:seven_world_wonders": {
+    "criteria": {
+      "entered_castle": "2025-03-05 19:23:34 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_face": {
+    "criteria": {
+      "has_item": "2025-03-05 19:29:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
+    "criteria": {
+      "has_silver_ingot": "2025-03-05 19:29:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-03-05 19:28:11 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-03-05 19:25:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-03-05 19:28:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-03-05 19:28:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-03-05 19:23:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-03-05 19:28:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-03-05 19:28:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-03-05 19:28:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone": {
+    "criteria": {
+      "has_item": "2025-03-05 19:29:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-03-05 19:23:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-03-05 19:28:11 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:wars_and_kingdoms": {
+    "criteria": {
+      "entered_castle": "2025-03-05 19:23:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-03-05 19:28:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_bricks_mossy": {
+    "criteria": {
+      "has_item": "2025-03-05 19:29:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-03-05 19:28:05 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-03-05 19:28:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_torch": {
+    "criteria": {
+      "has_item": "2025-03-05 19:29:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-03-05 19:28:11 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/upgrade/enchancement/pollen_trap_enhancement": {
+    "criteria": {
+      "has_iron_bars": "2025-03-05 19:23:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_tile": {
+    "criteria": {
+      "has_item": "2025-03-05 19:29:07 +0000"
     },
     "done": true
   },
