@@ -4832,3 +4832,27 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft_121_update:deleted_
 [05Mar2025 02:39:24.715] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-641} is full and can't process results
 [05Mar2025 02:40:43.706] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Mar2025 02:40:43.716] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Mar2025 02:43:15.477] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-645} is full and can't process results
+[05Mar2025 02:45:43.698] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Mar2025 02:45:43.707] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Mar2025 02:47:34.917] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Otakulone lost connection: Disconnected
+[05Mar2025 02:47:34.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone left the game
+[05Mar2025 02:47:43.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[05Mar2025 02:47:43.952] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: Server is stopping... try to save all still loaded CosmeticArmor data
+[05Mar2025 02:47:43.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[05Mar2025 02:47:43.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[05Mar2025 02:47:43.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[05Mar2025 02:47:44.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05Mar2025 02:47:45.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05Mar2025 02:47:45.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[05Mar2025 02:47:45.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05Mar2025 02:47:45.178] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Mar2025 02:47:45.186] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Mar2025 02:47:45.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05Mar2025 02:47:45.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05Mar2025 02:47:45.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[05Mar2025 02:47:45.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05Mar2025 02:47:45.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[05Mar2025 02:47:45.284] [Server thread/DEBUG] [SpectreLib/CONFIG]: Unloading server configs
+[05Mar2025 02:47:45.285] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[05Mar2025 02:47:45.286] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
