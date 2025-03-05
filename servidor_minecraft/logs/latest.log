@@ -506,3 +506,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft_121_update:deleted_
 [05Mar2025 04:52:18.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone has made the advancement [Tactical Fishing]
 [05Mar2025 04:56:38.953] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-640} is full and can't process results
 [05Mar2025 05:30:26.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone has made the advancement [Into Darkness]
+[05Mar2025 05:50:09.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone has made the advancement [Source of Evil]
+[05Mar2025 05:50:40.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone was slain by Corrupted Vindicator
+[05Mar2025 05:50:40.723] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Otakulone with unique ID travelersbackpack.quartz_05.03.2025-05.50.40.dat
+[05Mar2025 05:50:40.725] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 825 Y: -18.436027593548204 Z: -754
+[05Mar2025 05:52:18.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone was slain by Corrupted Pillager
+[05Mar2025 05:58:11.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone has made the advancement [Taking from the Dead]

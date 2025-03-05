@@ -4464,3 +4464,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft_121_update:deleted_
 [05Mar2025 05:43:42.196] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [05Mar2025 05:48:42.205] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Mar2025 05:48:42.214] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Mar2025 05:50:09.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone has made the advancement [Source of Evil]
+[05Mar2025 05:50:40.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone was slain by Corrupted Vindicator
+[05Mar2025 05:50:40.723] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Otakulone with unique ID travelersbackpack.quartz_05.03.2025-05.50.40.dat
+[05Mar2025 05:50:40.725] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 825 Y: -18.436027593548204 Z: -754
+[05Mar2025 05:52:18.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone was slain by Corrupted Pillager
+[05Mar2025 05:53:42.201] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Mar2025 05:53:42.210] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Mar2025 05:58:11.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone has made the advancement [Taking from the Dead]
+[05Mar2025 05:58:42.185] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Mar2025 05:58:42.194] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
