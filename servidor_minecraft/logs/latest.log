@@ -539,3 +539,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft_121_update:deleted_
 [05Mar2025 02:25:58.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otakulone: Killed Otakulone]
 [05Mar2025 02:26:48.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otakulone: Set own game mode to Creative Mode]
 [05Mar2025 02:27:27.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otakulone: Set own game mode to Survival Mode]
+[05Mar2025 02:36:43.970] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Otakulone lost connection: Disconnected
+[05Mar2025 02:36:43.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone left the game
+[05Mar2025 02:39:14.909] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Otakulone is edd5f677-f922-4522-a3d8-cc1bc594eab1
+[05Mar2025 02:39:17.266] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Otakulone[/192.168.193.140:55143] logged in with entity id 26260 at (834.823906467724, 73.0, -654.268213018813)
+[05Mar2025 02:39:17.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone joined the game
+[05Mar2025 02:39:17.286] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Otakulone
+[05Mar2025 02:39:17.287] [Server thread/INFO] [Jade/]: Syncing config to Otakulone (edd5f677-f922-4522-a3d8-cc1bc594eab1)
+[05Mar2025 02:39:18.499] [Netty Epoll Server IO #4/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Otakulone
+[05Mar2025 02:39:24.479] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-639} is full and can't process results
+[05Mar2025 02:39:24.715] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-641} is full and can't process results
