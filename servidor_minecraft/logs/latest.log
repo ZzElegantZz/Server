@@ -499,3 +499,18 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft_121_update:deleted_
 [05Mar2025 18:16:16.855] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
 [05Mar2025 18:22:31.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [05Mar2025 18:22:31.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hh<--[HERE]
+[05Mar2025 18:25:47.753] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Otakulone is edd5f677-f922-4522-a3d8-cc1bc594eab1
+[05Mar2025 18:25:50.369] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Otakulone[/192.168.193.140:52729] logged in with entity id 322 at (235.33597487488592, 46.0, -489.1200070021334)
+[05Mar2025 18:25:50.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone joined the game
+[05Mar2025 18:25:50.509] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Otakulone
+[05Mar2025 18:25:50.530] [Server thread/INFO] [Jade/]: Syncing config to Otakulone (edd5f677-f922-4522-a3d8-cc1bc594eab1)
+[05Mar2025 18:25:51.681] [Netty Epoll Server IO #2/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Otakulone
+[05Mar2025 18:26:40.055] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7700ms or 154 ticks behind
+[05Mar2025 18:26:46.545] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-645} is full and can't process results
+[05Mar2025 18:26:47.264] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-639} is full and can't process results
+[05Mar2025 18:26:47.352] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-640} is full and can't process results
+[05Mar2025 18:26:47.624] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-641} is full and can't process results
+[05Mar2025 18:26:49.679] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=898, y=79, z=-638} is full and can't process results
+[05Mar2025 18:26:49.680] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=896, y=79, z=-638} is full and can't process results
+[05Mar2025 18:26:50.102] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=897, y=79, z=-638} is full and can't process results
+[05Mar2025 18:30:51.724] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-646} is full and can't process results
