@@ -529,3 +529,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft_121_update:deleted_
 [05Mar2025 18:49:06.888] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-640} is full and can't process results
 [05Mar2025 18:49:06.986] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-641} is full and can't process results
 [05Mar2025 18:49:07.338] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=897, y=79, z=-638} is full and can't process results
+[05Mar2025 18:57:58.768] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-646} is full and can't process results
