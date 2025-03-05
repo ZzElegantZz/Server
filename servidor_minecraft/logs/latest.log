@@ -512,3 +512,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft_121_update:deleted_
 [05Mar2025 05:50:40.725] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 825 Y: -18.436027593548204 Z: -754
 [05Mar2025 05:52:18.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone was slain by Corrupted Pillager
 [05Mar2025 05:58:11.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone has made the advancement [Taking from the Dead]
+[05Mar2025 06:02:44.850] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-646} is full and can't process results
