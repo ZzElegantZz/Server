@@ -505,3 +505,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft_121_update:deleted_
 [05Mar2025 04:13:01.608] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-645} is full and can't process results
 [05Mar2025 04:52:18.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone has made the advancement [Tactical Fishing]
 [05Mar2025 04:56:38.953] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-640} is full and can't process results
+[05Mar2025 05:30:26.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone has made the advancement [Into Darkness]
