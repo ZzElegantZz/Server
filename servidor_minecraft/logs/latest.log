@@ -496,3 +496,40 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft_121_update:deleted_
 [12Mar2025 02:54:56.254] [Server thread/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Mod Recipe Manager ...
 [12Mar2025 02:54:56.258] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
 [12Mar2025 02:54:56.259] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[12Mar2025 03:07:18.700] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Otakulone is edd5f677-f922-4522-a3d8-cc1bc594eab1
+[12Mar2025 03:07:21.922] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Otakulone[/192.168.193.140:58710] logged in with entity id 323 at (3031.318315229935, 88.0, -285.6220638709064)
+[12Mar2025 03:07:22.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone joined the game
+[12Mar2025 03:07:22.065] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Otakulone
+[12Mar2025 03:07:22.089] [Server thread/INFO] [Jade/]: Syncing config to Otakulone (edd5f677-f922-4522-a3d8-cc1bc594eab1)
+[12Mar2025 03:07:23.834] [Netty Epoll Server IO #1/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Otakulone
+[12Mar2025 03:07:35.426] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player rekudox is 2e5c5be0-6e0c-48e7-a47d-e38e9967e578
+[12Mar2025 03:07:37.468] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rekudox[/192.168.193.168:62349] logged in with entity id 817 at (-9.5, 121.0, 9.5)
+[12Mar2025 03:07:37.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rekudox joined the game
+[12Mar2025 03:07:37.585] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to rekudox
+[12Mar2025 03:07:37.601] [Netty Epoll Server IO #3/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from rekudox
+[12Mar2025 03:07:37.644] [Server thread/INFO] [Jade/]: Syncing config to rekudox (2e5c5be0-6e0c-48e7-a47d-e38e9967e578)
+[12Mar2025 03:07:37.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rekudox has made the advancement [Ice and Fire]
+[12Mar2025 03:07:52.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rekudox has made the advancement [Alex's Mobs]
+[12Mar2025 03:08:14.258] [Worker-Main-20/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[12Mar2025 03:08:14.259] [Worker-Main-20/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[12Mar2025 03:09:04.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otakulone: Teleported 2 entities to Otakulone]
+[12Mar2025 03:10:06.482] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-641} is full and can't process results
+[12Mar2025 03:10:06.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otakulone: Teleported 2 entities to Otakulone]
+[12Mar2025 03:10:07.336] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-645} is full and can't process results
+[12Mar2025 03:10:07.699] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-646} is full and can't process results
+[12Mar2025 03:10:07.700] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-639} is full and can't process results
+[12Mar2025 03:10:07.700] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-640} is full and can't process results
+[12Mar2025 03:10:08.244] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=898, y=79, z=-638} is full and can't process results
+[12Mar2025 03:10:08.469] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[12Mar2025 03:10:08.881] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=897, y=79, z=-638} is full and can't process results
+[12Mar2025 03:10:09.176] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=896, y=79, z=-638} is full and can't process results
+[12Mar2025 03:10:58.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rekudox has made the advancement [Diamonds!]
+[12Mar2025 03:11:07.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rekudox has made the advancement [Cover Me with Diamonds]
+[12Mar2025 03:13:32.728] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Otakulone lost connection: Disconnected
+[12Mar2025 03:13:32.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone left the game
+[12Mar2025 03:13:38.459] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Otakulone is edd5f677-f922-4522-a3d8-cc1bc594eab1
+[12Mar2025 03:13:41.250] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Otakulone[/192.168.193.140:58817] logged in with entity id 4301 at (831.2702408552298, 67.0, -639.2027870954114)
+[12Mar2025 03:13:41.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone joined the game
+[12Mar2025 03:13:41.416] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Otakulone
+[12Mar2025 03:13:41.418] [Server thread/INFO] [Jade/]: Syncing config to Otakulone (edd5f677-f922-4522-a3d8-cc1bc594eab1)
+[12Mar2025 03:13:42.282] [Netty Epoll Server IO #5/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Otakulone
