@@ -1218,3 +1218,26 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft_121_update:deleted_
 [12Mar2025 04:39:50.930] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-644} is full and can't process results
 [12Mar2025 04:42:48.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rekudox has made the advancement [Best Friends Forever]
 [12Mar2025 04:43:20.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rekudox has made the advancement [Sweet Dreams]
+[12Mar2025 04:46:21.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otakulone: Set own game mode to Creative Mode]
+[12Mar2025 04:48:35.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone has made the advancement [Suit Up]
+[12Mar2025 04:49:04.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rekudox has made the advancement [Suit Up]
+[12Mar2025 04:49:48.877] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rekudox lost connection: Disconnected
+[12Mar2025 04:49:48.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rekudox left the game
+[12Mar2025 04:49:56.879] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Otakulone lost connection: Disconnected
+[12Mar2025 04:49:56.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone left the game
+[12Mar2025 04:50:07.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[12Mar2025 04:50:07.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STOP<--[HERE]
+[12Mar2025 04:50:12.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[12Mar2025 04:50:12.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[12Mar2025 04:50:12.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[12Mar2025 04:50:12.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[12Mar2025 04:50:13.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[12Mar2025 04:50:13.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[12Mar2025 04:50:13.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[12Mar2025 04:50:13.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[12Mar2025 04:50:13.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12Mar2025 04:50:13.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12Mar2025 04:50:13.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[12Mar2025 04:50:13.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12Mar2025 04:50:13.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[12Mar2025 04:50:14.067] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
