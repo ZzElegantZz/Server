@@ -54,7 +54,8 @@
       "minecraft:frozen_ocean": "2025-03-05 06:50:50 +0000",
       "minecraft:deep_frozen_ocean": "2025-03-05 06:50:36 +0000",
       "minecraft:jungle": "2025-03-01 05:02:29 +0000",
-      "minecraft:snowy_beach": "2025-03-05 19:21:41 +0000"
+      "minecraft:snowy_beach": "2025-03-05 19:21:41 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-03-12 03:23:37 +0000"
     },
     "done": false
   },
@@ -3793,6 +3794,30 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-03-12 03:09:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-03-12 03:26:42 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/snow": {
+    "criteria": {
+      "has_snowball": "2025-03-12 03:26:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/frost_stew": {
+    "criteria": {
+      "has_item": "2025-03-12 03:19:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-03-12 03:26:42 +0000"
     },
     "done": true
   },
