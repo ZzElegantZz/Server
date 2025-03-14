@@ -531,3 +531,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft_121_update:deleted_
 [14Mar2025 02:48:09.871] [Server thread/INFO] [Jade/]: Syncing config to rekudox (2e5c5be0-6e0c-48e7-a47d-e38e9967e578)
 [14Mar2025 02:48:11.053] [Netty Epoll Server IO #0/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from rekudox
 [14Mar2025 02:53:36.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Otakulone> w
+[14Mar2025 02:57:14.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otakulone: Set own game mode to Creative Mode]
+[14Mar2025 02:59:27.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otakulone: Set own game mode to Survival Mode]
+[14Mar2025 02:59:54.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone has made the advancement [Dragon Growth Hormone]
+[14Mar2025 03:00:47.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rekudox has made the advancement [Dragon Growth Hormone]
+[14Mar2025 03:02:44.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <rekudox> vamos a buscar dragones matar esqueletos o que
+[14Mar2025 03:02:52.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <rekudox> o tmb matar bosses
+[14Mar2025 03:02:56.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <rekudox> ??
+[14Mar2025 03:03:19.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Otakulone> vamos por los dos si encontramos jefe lo matamos
+[14Mar2025 03:03:19.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rekudox has made the advancement [We Need to Go Deeper]
+[14Mar2025 03:03:31.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <rekudox> dale
