@@ -1,43 +1,43 @@
-[12Mar2025 02:53:48.998] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[12Mar2025 02:53:49.004] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
-[12Mar2025 02:53:55.806] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[12Mar2025 02:53:55.974] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Server/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[12Mar2025 02:53:56.666] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[12Mar2025 02:53:56.668] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[12Mar2025 02:53:56.670] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[12Mar2025 02:53:56.671] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[12Mar2025 02:53:57.027] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 6 dependencies adding them to mods collection
-[12Mar2025 02:54:00.243] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[12Mar2025 02:54:00.388] [main/ERROR] [mixin/]: Mixin config entity_model_features.mixins.json does not specify "minVersion" property
-[12Mar2025 02:54:00.517] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[12Mar2025 02:54:00.623] [main/WARN] [mixin/]: Reference map 'graveyard-FORGE-forge-refmap.json' for graveyard-forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[12Mar2025 02:54:00.829] [main/WARN] [mixin/]: Reference map 'mixins.call_of_yucutan.refmap.json' for mixins.call_of_yucutan.json could not be read. If this is a development environment you can ignore this message
-[12Mar2025 02:54:00.899] [main/WARN] [mixin/]: Reference map 'pandalib-common-common-refmap.json' for pandalib-common.mixins.json could not be read. If this is a development environment you can ignore this message
-[12Mar2025 02:54:01.667] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[12Mar2025 02:54:01.695] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[12Mar2025 02:54:03.238] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.2).
-[12Mar2025 02:54:05.641] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[12Mar2025 02:54:05.643] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[12Mar2025 02:54:05.773] [main/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=1 on crittersandcompanions.mixins.json:LivingEntityMixin::handler$zhb000$onDie exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[12Mar2025 02:54:08.797] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[12Mar2025 02:54:08.798] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[12Mar2025 02:54:12.888] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+[14Mar2025 02:43:39.442] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[14Mar2025 02:43:39.447] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
+[14Mar2025 02:43:41.107] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[14Mar2025 02:43:41.216] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Server/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[14Mar2025 02:43:41.677] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[14Mar2025 02:43:41.681] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[14Mar2025 02:43:41.683] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[14Mar2025 02:43:41.684] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[14Mar2025 02:43:41.884] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 6 dependencies adding them to mods collection
+[14Mar2025 02:43:44.848] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[14Mar2025 02:43:44.935] [main/ERROR] [mixin/]: Mixin config entity_model_features.mixins.json does not specify "minVersion" property
+[14Mar2025 02:43:45.029] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[14Mar2025 02:43:45.094] [main/WARN] [mixin/]: Reference map 'graveyard-FORGE-forge-refmap.json' for graveyard-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[14Mar2025 02:43:45.218] [main/WARN] [mixin/]: Reference map 'mixins.call_of_yucutan.refmap.json' for mixins.call_of_yucutan.json could not be read. If this is a development environment you can ignore this message
+[14Mar2025 02:43:45.290] [main/WARN] [mixin/]: Reference map 'pandalib-common-common-refmap.json' for pandalib-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[14Mar2025 02:43:45.929] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[14Mar2025 02:43:45.946] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[14Mar2025 02:43:47.233] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.2).
+[14Mar2025 02:43:48.708] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[14Mar2025 02:43:48.710] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[14Mar2025 02:43:48.920] [main/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=1 on crittersandcompanions.mixins.json:LivingEntityMixin::handler$zhb000$onDie exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[14Mar2025 02:43:51.875] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[14Mar2025 02:43:51.876] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[14Mar2025 02:43:55.741] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
 
-[12Mar2025 02:54:13.491] [modloading-worker-0/INFO] [Easy Mob Farm/]: Initializing Easy Mob Farm (Forge) ...
-[12Mar2025 02:54:13.492] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Debug Manager ...
-[12Mar2025 02:54:13.493] [modloading-worker-0/WARN] [Easy Mob Farm/]: [Debug Manager] Detected debug log level for Easy Mob Farm with ALL!
-[12Mar2025 02:54:13.495] [modloading-worker-0/WARN] [Easy Mob Farm/]: [Debug Manager] Adjusting log level for Easy Mob Farm from ALL to INFO, for performance reasons!
-[12Mar2025 02:54:13.496] [modloading-worker-0/INFO] [Easy Mob Farm/]: [Debug Manager] Add new logger config for Easy Mob Farm with level INFO ...
-[12Mar2025 02:54:13.497] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Constants ...
-[12Mar2025 02:54:13.499] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Configuration ...
-[12Mar2025 02:54:13.501] [modloading-worker-0/INFO] [Easy Mob Farm/]: [Config] Updated configuration path to /workspaces/Server/servidor_minecraft/config/easy_mob_farm
-[12Mar2025 02:54:13.503] [modloading-worker-0/INFO] [Easy Mob Farm/]: [Config] Registering common configuration ...
-[12Mar2025 02:54:13.508] [modloading-worker-0/INFO] [Easy Mob Farm/]: [Config]  Mob Farm Configuration
+[14Mar2025 02:43:56.620] [modloading-worker-0/INFO] [Easy Mob Farm/]: Initializing Easy Mob Farm (Forge) ...
+[14Mar2025 02:43:56.622] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Debug Manager ...
+[14Mar2025 02:43:56.624] [modloading-worker-0/WARN] [Easy Mob Farm/]: [Debug Manager] Detected debug log level for Easy Mob Farm with ALL!
+[14Mar2025 02:43:56.624] [modloading-worker-0/WARN] [Easy Mob Farm/]: [Debug Manager] Adjusting log level for Easy Mob Farm from ALL to INFO, for performance reasons!
+[14Mar2025 02:43:56.625] [modloading-worker-0/INFO] [Easy Mob Farm/]: [Debug Manager] Add new logger config for Easy Mob Farm with level INFO ...
+[14Mar2025 02:43:56.627] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Constants ...
+[14Mar2025 02:43:56.628] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Configuration ...
+[14Mar2025 02:43:56.629] [modloading-worker-0/INFO] [Easy Mob Farm/]: [Config] Updated configuration path to /workspaces/Server/servidor_minecraft/config/easy_mob_farm
+[14Mar2025 02:43:56.630] [modloading-worker-0/INFO] [Easy Mob Farm/]: [Config] Registering common configuration ...
+[14Mar2025 02:43:56.631] [modloading-worker-0/INFO] [Easy Mob Farm/]: [Config]  Mob Farm Configuration
 
  This configuration file allows you to define the general settings for the Mob Farms.
 
  is up to date: {progressingRequiresOwnerToBeOnline=false, luckyDropFarmLuckPercentage=95, tier0progressionUpgradeSpeed=0, tier3progressionUpgradeSpeed=9, tier2progressionUpgradeSpeed=6, tier1progressionUpgradeSpeed=3, experienceDropChance=5, speedEnhancementUpgradeSpeed=6}
-[12Mar2025 02:54:13.524] [modloading-worker-0/INFO] [Easy Mob Farm/]: [Config]  Mob Farm Bonus Configuration
+[14Mar2025 02:43:56.662] [modloading-worker-0/INFO] [Easy Mob Farm/]: [Config]  Mob Farm Bonus Configuration
 
  This configuration file allows you to define the bonus drops for the Mob Farms.
 
@@ -53,7 +53,7 @@ Example:
 To disable a bonus drop for a default definition, set the amount to 0.
 
  is up to date: {swamp_farm::1::minecraft:witch=minecraft:redstone::1::15, animal_plains_farm::3::minecraft:sheep=minecraft:white_wool::1::5, monster_plains_cave_farm::1::minecraft:zombie=minecraft:rotten_flesh::1::15, ocean_farm::2::minecraft:squid=minecraft:ink_sac::1::10, nether_fortress_farm::0::minecraft:blaze=minecraft:blaze_rod::1::20, iron_golem_farm::0::minecraft:iron_golem=minecraft:iron_ingot::1::20, ocean_farm::2::minecraft:cod=minecraft:cod::1::10, jungle_farm::1::minecraft:parrot=minecraft:feather::1::15, swamp_farm::2::minecraft:witch=minecraft:redstone::1::10, ocean_farm::1::minecraft:squid=minecraft:ink_sac::1::15, jungle_farm::1::minecraft:panda=minecraft:bamboo::1::15, swamp_farm::0::minecraft:frog=minecraft:slime_ball::1::20, animal_plains_farm::2::minecraft:sheep=minecraft:white_wool::1::10, animal_plains_farm::3::minecraft:chicken=minecraft:egg::1::5, animal_plains_farm::1::minecraft:sheep=minecraft:white_wool::1::15, iron_golem_farm::1::minecraft:iron_golem=minecraft:iron_ingot::1::15, swamp_farm::3::minecraft:frog=minecraft:slime_ball::1::5, nether_fortress_farm::1::minecraft:blaze=minecraft:blaze_rod::1::15, bee_hive_farm::2::minecraft:bee=minecraft:honeycomb::1::10, desert_farm::1::minecraft:husk=minecraft:sand::1::15, jungle_farm::0::minecraft:panda=minecraft:bamboo::1::20, nether_fortress_farm::0::minecraft:magma_cube=minecraft:magma_cream::1::20, jungle_farm::2::minecraft:parrot=minecraft:feather::1::10, swamp_farm::2::minecraft:frog=minecraft:slime_ball::1::10, animal_plains_farm::0::minecraft:chicken=minecraft:egg::1::20, nether_fortress_farm::3::minecraft:blaze=minecraft:blaze_rod::1::5, animal_plains_farm::1::minecraft:chicken=minecraft:egg::1::15, ocean_farm::0::minecraft:squid=minecraft:ink_sac::1::20, animal_plains_farm::1::minecraft:cow=minecraft:leather::1::15, ocean_farm::0::minecraft:cod=minecraft:cod::1::20, desert_farm::0::minecraft:husk=minecraft:sand::1::20, monster_plains_cave_farm::0::minecraft:zombie=minecraft:rotten_flesh::1::20, desert_farm::3::minecraft:husk=minecraft:sand::1::5, desert_farm::2::minecraft:rabbit=minecraft:rabbit_hide::1::10, animal_plains_farm::2::minecraft:cow=minecraft:leather::1::10, jungle_farm::3::minecraft:panda=minecraft:bamboo::1::5, ocean_farm::3::minecraft:squid=minecraft:ink_sac::1::5, jungle_farm::3::minecraft:parrot=minecraft:feather::1::5, desert_farm::3::minecraft:rabbit=minecraft:rabbit_hide::1::5, ocean_farm::1::minecraft:cod=minecraft:cod::1::15, ocean_farm::3::minecraft:cod=minecraft:cod::1::5, animal_plains_farm::3::minecraft:cow=minecraft:leather::1::5, nether_fortress_farm::3::minecraft:magma_cube=minecraft:magma_cream::1::5, desert_farm::2::minecraft:husk=minecraft:sand::1::10, bee_hive_farm::3::minecraft:bee=minecraft:honeycomb::1::5, swamp_farm::2::minecraft:slime=minecraft:slime_ball::1::10, swamp_farm::1::minecraft:frog=minecraft:slime_ball::1::15, bee_hive_farm::1::minecraft:bee=minecraft:honeycomb::1::15, swamp_farm::0::minecraft:slime=minecraft:slime_ball::1::20, desert_farm::1::minecraft:rabbit=minecraft:rabbit_hide::1::15, animal_plains_farm::0::minecraft:cow=minecraft:leather::1::20, animal_plains_farm::2::minecraft:chicken=minecraft:egg::1::10, swamp_farm::3::minecraft:slime=minecraft:slime_ball::1::5, bee_hive_farm::0::minecraft:bee=minecraft:honeycomb::1::20, jungle_farm::2::minecraft:panda=minecraft:bamboo::1::10, swamp_farm::3::minecraft:witch=minecraft:redstone::1::5, animal_plains_farm::0::minecraft:sheep=minecraft:white_wool::1::20, nether_fortress_farm::2::minecraft:blaze=minecraft:blaze_rod::1::10, nether_fortress_farm::1::minecraft:magma_cube=minecraft:magma_cream::1::15, iron_golem_farm::2::minecraft:iron_golem=minecraft:iron_ingot::1::10, monster_plains_cave_farm::3::minecraft:zombie=minecraft:rotten_flesh::1::5, desert_farm::0::minecraft:rabbit=minecraft:rabbit_hide::1::20, swamp_farm::0::minecraft:witch=minecraft:redstone::1::20, iron_golem_farm::3::minecraft:iron_golem=minecraft:iron_ingot::1::5, monster_plains_cave_farm::2::minecraft:zombie=minecraft:rotten_flesh::1::10, nether_fortress_farm::2::minecraft:magma_cube=minecraft:magma_cream::1::10, jungle_farm::0::minecraft:parrot=minecraft:feather::1::20, swamp_farm::1::minecraft:slime=minecraft:slime_ball::1::15}
-[12Mar2025 02:54:13.534] [modloading-worker-0/INFO] [Easy Mob Farm/]: [Config]  Mob Capture Card Configuration
+[14Mar2025 02:43:56.666] [modloading-worker-0/INFO] [Easy Mob Farm/]: [Config]  Mob Capture Card Configuration
 
  This configuration file allows you to define the general settings for the Mob Capture Cards.
 
@@ -77,7 +77,7 @@ To disable a bonus drop for a default definition, set the amount to 0.
 
 
  is up to date: {mobCaptureCardFishingDropChance=0.15, mobCaptureCardFishingDropAllowList=, dropMobCaptureCardOnFishing=true, requirePlayerKill=true, mobCaptureCardFishingDropDenyList=, mobCaptureCardKillDropAllowList=, mobCaptureCardKillDropDenyList=, mobCaptureCardKillDropChance=0.1, mobCaptureCardFoilDropChance=0.01, dropMobCaptureCardOnKill=true}
-[12Mar2025 02:54:13.542] [modloading-worker-0/INFO] [Easy Mob Farm/]: [Config]  Mob Capture Card Rarity Configuration
+[14Mar2025 02:43:56.671] [modloading-worker-0/INFO] [Easy Mob Farm/]: [Config]  Mob Capture Card Rarity Configuration
 
  This configuration file allows you to define the rarity for the Mob Capture Cards.
 
@@ -94,7 +94,7 @@ To disable a bonus drop for a default definition, set the amount to 0.
   - EPIC
 
  is up to date: {minecraft:pillager=COMMON, minecraft:zombified_villager=UNCOMMON, minecraft:blaze=RARE, minecraft:skeleton=COMMON, minecraft:elder_guardian=EPIC, minecraft:ravager=RARE, minecraft:squid=COMMON, minecraft:ghast=RARE, minecraft:strider=RARE, minecraft:guardian=RARE, minecraft:cow=COMMON, minecraft:vindicator=RARE, minecraft:magma_cube=RARE, minecraft:spider=COMMON, minecraft:piglin_brute=EPIC, minecraft:creeper=COMMON, minecraft:warden=EPIC, minecraft:wither=EPIC, minecraft:horse=COMMON, minecraft:evoker=UNCOMMON, minecraft:slime=UNCOMMON, minecraft:polar_bear=UNCOMMON, minecraft:cat=COMMON, minecraft:bat=COMMON, minecraft:illusioner=EPIC, minecraft:phantom=RARE, minecraft:zombified_piglin=UNCOMMON, minecraft:witch=COMMON, minecraft:wither_skeleton=EPIC, minecraft:fox=UNCOMMON, minecraft:pig=COMMON, minecraft:llama=UNCOMMON, minecraft:husk=UNCOMMON, minecraft:sheep=COMMON, minecraft:ender_dragon=EPIC, minecraft:shulker=RARE, minecraft:cave_spider=UNCOMMON, minecraft:villager=COMMON, minecraft:enderman=UNCOMMON, minecraft:stray=UNCOMMON, minecraft:chicken=COMMON, minecraft:zombie=COMMON, minecraft:drowned=COMMON, minecraft:wolf=COMMON, minecraft:panda=UNCOMMON}
-[12Mar2025 02:54:13.545] [modloading-worker-0/INFO] [Easy Mob Farm/]: [Config]  Mob Catcher Configuration
+[14Mar2025 02:43:56.675] [modloading-worker-0/INFO] [Easy Mob Farm/]: [Config]  Mob Catcher Configuration
 
  This configuration file allows you to define the general settings for the Mob Catcher.
 
@@ -114,83 +114,83 @@ To disable a bonus drop for a default definition, set the amount to 0.
 
 
  is up to date: {EnduringCaptureNet:Enabled=true, VoidBindingChain:MaxEntityHeightToCapture=6.0, EnduringCaptureNet:MaxEntityWidthToCapture=0.9, IronboundContainmentCage:RequiredHealthPercentageToCapture=0.25, EnduringCaptureNet:DenyList=, IronboundContainmentCage:MaxEntityHeightToCapture=2.0, IronboundContainmentCage:Enabled=true, MysticBindingCrystal:AllowList=, IronboundContainmentCage:MaxEntityWidthToCapture=1.5, VoidBindingChain:MaxDurability=16, MysticBindingCrystal:Enabled=true, IronboundContainmentCage:MaxDurability=32, MysticBindingCrystal:MaxEntityWidthToCapture=3.0, MysticBindingCrystal:MaxDurability=32, VoidBindingChain:MaxEntityWidthToCapture=4.0, EnduringCaptureNet:MaxDurability=64, EnduringCaptureNet:AllowList=, VoidBindingChain:AllowList=, IronboundContainmentCage:DenyList=, VoidBindingChain:DenyList=, EnduringCaptureNet:RequiredHealthPercentageToCapture=0.5, MysticBindingCrystal:DenyList=, IronboundContainmentCage:AllowList=, MysticBindingCrystal:MaxEntityHeightToCapture=4.0, MysticBindingCrystal:RequiredHealthPercentageToCapture=0.25, VoidBindingChain:Enabled=true, VoidBindingChain:RequiredHealthPercentageToCapture=0.2, EnduringCaptureNet:MaxEntityHeightToCapture=1.4}
-[12Mar2025 02:54:13.546] [modloading-worker-0/INFO] [Easy Mob Farm/]: [Config] Registering server configuration ...
-[12Mar2025 02:54:13.546] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Compatibility Handler ...
-[12Mar2025 02:54:13.547] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Compat Handler ...
-[12Mar2025 02:54:13.547] [modloading-worker-0/INFO] [Easy Mob Farm/]: [Compat Manager] Farmer's Delight mod with id 'farmersdelight' loaded: true
-[12Mar2025 02:54:13.548] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Experience Manager ...
-[12Mar2025 02:54:13.550] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Experience Manager ModExperienceManager
-[12Mar2025 02:54:13.550] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Blocks ...
-[12Mar2025 02:54:13.582] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Blocks Entities ...
-[12Mar2025 02:54:13.583] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Block Items ...
-[12Mar2025 02:54:13.599] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Items ...
-[12Mar2025 02:54:13.611] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Menu Types ...
-[12Mar2025 02:54:14.253] [modloading-worker-0/INFO] [graveyard/]: Registered JSON trade offer adapter.
-[12Mar2025 02:54:14.817] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[12Mar2025 02:54:14.817] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[12Mar2025 02:54:15.325] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
-[12Mar2025 02:54:15.326] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
-[12Mar2025 02:54:16.103] [modloading-worker-0/INFO] [fallingtrees | Config/]: Successfully loaded config 'fallingtrees_common'
-[12Mar2025 02:54:16.113] [modloading-worker-0/INFO] [fallingtrees | Config/]: Successfully saved config 'fallingtrees_common'
-[12Mar2025 02:54:16.123] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[12Mar2025 02:54:16.164] [modloading-worker-0/WARN] [de.keksuccino.justzoom.JustZoom/]: [JUST ZOOM] Disabling 'Just Zoom' since it's a client-side mod and current environment is server!
-[12Mar2025 02:54:19.923] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
-[12Mar2025 02:54:19.936] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
-[12Mar2025 02:54:19.939] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
-[12Mar2025 02:54:19.942] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
-[12Mar2025 02:54:20.164] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
-[12Mar2025 02:54:21.086] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[12Mar2025 02:54:21.206] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
-[12Mar2025 02:54:21.207] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[12Mar2025 02:54:21.266] [modloading-worker-0/INFO] [io.github.jamalam360.rightclickharvest.RightClickHarvestModInit/]: Initialized
-[12Mar2025 02:54:21.273] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 9.1.30 Target: null
-[12Mar2025 02:54:21.274] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_lukis_grandcapitals] Starting version check at https://api.modrinth.com/updates/8Lw09aLb/forge_updates.json
-[12Mar2025 02:54:21.316] [main/INFO] [journeymap/]: Initializing Packet Registries
-[12Mar2025 02:54:21.356] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
-[12Mar2025 02:54:21.357] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
-[12Mar2025 02:54:21.357] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
-[12Mar2025 02:54:21.357] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
-[12Mar2025 02:54:21.454] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_lukis_grandcapitals] Found status: OUTDATED Current: 1.1.1 Target: 1.1.1+mod
-[12Mar2025 02:54:21.454] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [additionalstructures] Starting version check at https://raw.githubusercontent.com/XxRexRaptorxX/Update-Checker/main/AdditionalStructures.json
-[12Mar2025 02:54:21.485] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
-[12Mar2025 02:54:21.494] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[12Mar2025 02:54:21.498] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [additionalstructures] Found status: UP_TO_DATE Current: 4.2.2 Target: null
-[12Mar2025 02:54:21.498] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[12Mar2025 02:54:21.509] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[12Mar2025 02:54:21.514] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[12Mar2025 02:54:21.517] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.alekiponi.alekiships.compat.waila.JadeIntegration
-[12Mar2025 02:54:21.519] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.gravestone.integration.waila.PluginGraveStone
-[12Mar2025 02:54:21.688] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[12Mar2025 02:54:21.688] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [betterdays] Starting version check at https://raw.githubusercontent.com/wendall911/BetterDays/1.20.1/files/updates.json
-[12Mar2025 02:54:21.707] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [betterdays] Found status: UP_TO_DATE Current: 1.20.1-3.1.1.1-FORGE Target: null
-[12Mar2025 02:54:21.708] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
-[12Mar2025 02:54:21.965] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Found status: BETA Current: 2.16.2 Target: null
-[12Mar2025 02:54:21.965] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancementplaques] Starting version check at https://mc-update-check.anthonyhilyard.com/499826
-[12Mar2025 02:54:22.158] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancementplaques] Found status: UP_TO_DATE Current: 1.6.9 Target: null
-[12Mar2025 02:54:22.158] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [creeperheal] Starting version check at https://raw.githubusercontent.com/Lothrazar/ForgeCreeperHeal/trunk/1.19/update.json
-[12Mar2025 02:54:22.227] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [creeperheal] Found status: BETA Current: 2.0.3 Target: null
-[12Mar2025 02:54:22.228] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dungeons_enhanced] Starting version check at https://raw.githubusercontent.com/Ametrin-Studios/DungeonsEnhanced/refs/heads/master/update.json
-[12Mar2025 02:54:22.238] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dungeons_enhanced] Found status: UP_TO_DATE Current: 5.3.0 Target: null
-[12Mar2025 02:54:22.238] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Starting version check at https://mc-update-check.anthonyhilyard.com/520110
-[12Mar2025 02:54:22.264] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Found status: UP_TO_DATE Current: 1.1.25 Target: null
-[12Mar2025 02:54:22.265] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
-[12Mar2025 02:54:22.787] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: AHEAD Current: 1.20.1-1.0.24 Target: null
-[12Mar2025 02:54:22.787] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Starting version check at https://api.modrinth.com/updates/tpehi7ww/forge_updates.json
-[12Mar2025 02:54:22.852] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Found status: OUTDATED Current: 3.0.3.f Target: 3.0.3.f+mod
-[12Mar2025 02:54:22.853] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [crittersandcompanions] Starting version check at https://api.modrinth.com/updates/critters-and-companions/forge_updates.json
-[12Mar2025 02:54:22.949] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [crittersandcompanions] Found status: UP_TO_DATE Current: 2.2.2 Target: null
-[12Mar2025 02:54:22.949] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [strayed_fates_forsaken] Starting version check at https://api.modrinth.com/updates/3GGOgUqD/forge_updates.json
-[12Mar2025 02:54:22.992] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [strayed_fates_forsaken] Found status: UP_TO_DATE Current: 1.1.3.2 Target: null
-[12Mar2025 02:54:24.379] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[12Mar2025 02:54:26.592] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23239!/assets/.mcassetsroot' uses unexpected schema
-[12Mar2025 02:54:26.592] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23239!/data/.mcassetsroot' uses unexpected schema
-[12Mar2025 02:54:29.281] [main/ERROR] [net.minecraft.Util/]: Invalid path in pack: minecraft_121_update:worldgen/template_pool/trail_chamber/puzzle - kopie.txt, ignoring
-[12Mar2025 02:54:31.306] [main/INFO] [Easy Mob Farm/]: Register Easy Mob Farm /easy_mob_farm commands for Easy Mob Farm ...
-[12Mar2025 02:54:31.388] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[12Mar2025 02:54:31.521] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag totw_modded:has_structure/aether_tower as it is missing following references: #aether:is_aether (from totw_modded-forge-1.20.1-1.0.5.jar)
-[12Mar2025 02:54:31.527] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag totw_modded:has_structure/tw_mangrove_tower as it is missing following references: twilightforest:swamp (from totw_modded-forge-1.20.1-1.0.5.jar), 
+[14Mar2025 02:43:56.677] [modloading-worker-0/INFO] [Easy Mob Farm/]: [Config] Registering server configuration ...
+[14Mar2025 02:43:56.677] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Compatibility Handler ...
+[14Mar2025 02:43:56.678] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Compat Handler ...
+[14Mar2025 02:43:56.679] [modloading-worker-0/INFO] [Easy Mob Farm/]: [Compat Manager] Farmer's Delight mod with id 'farmersdelight' loaded: true
+[14Mar2025 02:43:56.680] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Experience Manager ...
+[14Mar2025 02:43:56.680] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Experience Manager ModExperienceManager
+[14Mar2025 02:43:56.682] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Blocks ...
+[14Mar2025 02:43:56.728] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Blocks Entities ...
+[14Mar2025 02:43:56.729] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Block Items ...
+[14Mar2025 02:43:56.746] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Items ...
+[14Mar2025 02:43:56.771] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Menu Types ...
+[14Mar2025 02:43:57.194] [modloading-worker-0/INFO] [graveyard/]: Registered JSON trade offer adapter.
+[14Mar2025 02:43:57.985] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[14Mar2025 02:43:57.986] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[14Mar2025 02:43:58.381] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
+[14Mar2025 02:43:58.382] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
+[14Mar2025 02:43:59.335] [modloading-worker-0/INFO] [fallingtrees | Config/]: Successfully loaded config 'fallingtrees_common'
+[14Mar2025 02:43:59.338] [modloading-worker-0/INFO] [fallingtrees | Config/]: Successfully saved config 'fallingtrees_common'
+[14Mar2025 02:43:59.422] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[14Mar2025 02:43:59.439] [modloading-worker-0/WARN] [de.keksuccino.justzoom.JustZoom/]: [JUST ZOOM] Disabling 'Just Zoom' since it's a client-side mod and current environment is server!
+[14Mar2025 02:44:02.995] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
+[14Mar2025 02:44:03.006] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
+[14Mar2025 02:44:03.008] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
+[14Mar2025 02:44:03.010] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
+[14Mar2025 02:44:03.191] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
+[14Mar2025 02:44:03.570] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[14Mar2025 02:44:03.634] [modloading-worker-0/INFO] [io.github.jamalam360.rightclickharvest.RightClickHarvestModInit/]: Initialized
+[14Mar2025 02:44:03.733] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[14Mar2025 02:44:03.733] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[14Mar2025 02:44:03.782] [main/INFO] [journeymap/]: Initializing Packet Registries
+[14Mar2025 02:44:03.793] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 9.1.30 Target: null
+[14Mar2025 02:44:03.795] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_lukis_grandcapitals] Starting version check at https://api.modrinth.com/updates/8Lw09aLb/forge_updates.json
+[14Mar2025 02:44:03.837] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[14Mar2025 02:44:03.837] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[14Mar2025 02:44:03.838] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[14Mar2025 02:44:03.838] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[14Mar2025 02:44:03.968] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_lukis_grandcapitals] Found status: OUTDATED Current: 1.1.1 Target: 1.1.1+mod
+[14Mar2025 02:44:03.968] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [additionalstructures] Starting version check at https://raw.githubusercontent.com/XxRexRaptorxX/Update-Checker/main/AdditionalStructures.json
+[14Mar2025 02:44:04.009] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
+[14Mar2025 02:44:04.020] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [additionalstructures] Found status: UP_TO_DATE Current: 4.2.2 Target: null
+[14Mar2025 02:44:04.020] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[14Mar2025 02:44:04.023] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[14Mar2025 02:44:04.037] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[14Mar2025 02:44:04.042] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[14Mar2025 02:44:04.044] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.alekiponi.alekiships.compat.waila.JadeIntegration
+[14Mar2025 02:44:04.046] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.gravestone.integration.waila.PluginGraveStone
+[14Mar2025 02:44:04.197] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[14Mar2025 02:44:04.197] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [betterdays] Starting version check at https://raw.githubusercontent.com/wendall911/BetterDays/1.20.1/files/updates.json
+[14Mar2025 02:44:04.208] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [betterdays] Found status: UP_TO_DATE Current: 1.20.1-3.1.1.1-FORGE Target: null
+[14Mar2025 02:44:04.209] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
+[14Mar2025 02:44:04.584] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Found status: BETA Current: 2.16.2 Target: null
+[14Mar2025 02:44:04.584] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancementplaques] Starting version check at https://mc-update-check.anthonyhilyard.com/499826
+[14Mar2025 02:44:04.789] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancementplaques] Found status: UP_TO_DATE Current: 1.6.9 Target: null
+[14Mar2025 02:44:04.790] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [creeperheal] Starting version check at https://raw.githubusercontent.com/Lothrazar/ForgeCreeperHeal/trunk/1.19/update.json
+[14Mar2025 02:44:04.853] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [creeperheal] Found status: BETA Current: 2.0.3 Target: null
+[14Mar2025 02:44:04.854] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dungeons_enhanced] Starting version check at https://raw.githubusercontent.com/Ametrin-Studios/DungeonsEnhanced/refs/heads/master/update.json
+[14Mar2025 02:44:04.868] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dungeons_enhanced] Found status: UP_TO_DATE Current: 5.3.0 Target: null
+[14Mar2025 02:44:04.869] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Starting version check at https://mc-update-check.anthonyhilyard.com/520110
+[14Mar2025 02:44:04.892] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Found status: UP_TO_DATE Current: 1.1.25 Target: null
+[14Mar2025 02:44:04.892] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
+[14Mar2025 02:44:05.424] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: AHEAD Current: 1.20.1-1.0.24 Target: null
+[14Mar2025 02:44:05.425] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Starting version check at https://api.modrinth.com/updates/tpehi7ww/forge_updates.json
+[14Mar2025 02:44:05.486] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Found status: OUTDATED Current: 3.0.3.f Target: 3.0.3.f+mod
+[14Mar2025 02:44:05.487] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [crittersandcompanions] Starting version check at https://api.modrinth.com/updates/critters-and-companions/forge_updates.json
+[14Mar2025 02:44:05.529] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [crittersandcompanions] Found status: UP_TO_DATE Current: 2.2.2 Target: null
+[14Mar2025 02:44:05.529] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [strayed_fates_forsaken] Starting version check at https://api.modrinth.com/updates/3GGOgUqD/forge_updates.json
+[14Mar2025 02:44:05.576] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [strayed_fates_forsaken] Found status: UP_TO_DATE Current: 1.1.3.2 Target: null
+[14Mar2025 02:44:07.477] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14Mar2025 02:44:10.014] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23239!/assets/.mcassetsroot' uses unexpected schema
+[14Mar2025 02:44:10.015] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23239!/data/.mcassetsroot' uses unexpected schema
+[14Mar2025 02:44:13.315] [main/ERROR] [net.minecraft.Util/]: Invalid path in pack: minecraft_121_update:worldgen/template_pool/trail_chamber/puzzle - kopie.txt, ignoring
+[14Mar2025 02:44:15.796] [main/INFO] [Easy Mob Farm/]: Register Easy Mob Farm /easy_mob_farm commands for Easy Mob Farm ...
+[14Mar2025 02:44:15.878] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[14Mar2025 02:44:16.034] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag totw_modded:has_structure/aether_tower as it is missing following references: #aether:is_aether (from totw_modded-forge-1.20.1-1.0.5.jar)
+[14Mar2025 02:44:16.035] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag totw_modded:has_structure/tw_mangrove_tower as it is missing following references: twilightforest:swamp (from totw_modded-forge-1.20.1-1.0.5.jar), 
 	twilightforest:fire_swamp (from totw_modded-forge-1.20.1-1.0.5.jar)
-[12Mar2025 02:54:31.528] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag totw_modded:has_structure/everdawn_tower as it is missing following references: blue_skies:unorthodox_valley (from totw_modded-forge-1.20.1-1.0.5.jar), 
+[14Mar2025 02:44:16.035] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag totw_modded:has_structure/everdawn_tower as it is missing following references: blue_skies:unorthodox_valley (from totw_modded-forge-1.20.1-1.0.5.jar), 
 	blue_skies:shaded_woodlands (from totw_modded-forge-1.20.1-1.0.5.jar), 
 	blue_skies:crystal_dunes (from totw_modded-forge-1.20.1-1.0.5.jar), 
 	blue_skies:crystal_dunes_spikes (from totw_modded-forge-1.20.1-1.0.5.jar), 
@@ -199,13 +199,13 @@ To disable a bonus drop for a default definition, set the amount to 0.
 	blue_skies:crystal_roughs (from totw_modded-forge-1.20.1-1.0.5.jar), 
 	blue_skies:searing_grassland (from totw_modded-forge-1.20.1-1.0.5.jar), 
 	blue_skies:crescent_orchard (from totw_modded-forge-1.20.1-1.0.5.jar)
-[12Mar2025 02:54:31.530] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag totw_modded:has_structure/venus_tower as it is missing following references: ad_astra:infernal_venus_barrens (from totw_modded-forge-1.20.1-1.0.5.jar)
-[12Mar2025 02:54:31.533] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag totw_modded:has_structure/moon_tower as it is missing following references: ad_astra:lunar_wastelands (from totw_modded-forge-1.20.1-1.0.5.jar)
-[12Mar2025 02:54:31.535] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag totw_modded:has_structure/ratlantis_tower as it is missing following references: rats:ratlantis (from totw_modded-forge-1.20.1-1.0.5.jar)
-[12Mar2025 02:54:31.535] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag totw_modded:has_structure/tw_canopy_tower as it is missing following references: twilightforest:forest (from totw_modded-forge-1.20.1-1.0.5.jar), 
+[14Mar2025 02:44:16.036] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag totw_modded:has_structure/venus_tower as it is missing following references: ad_astra:infernal_venus_barrens (from totw_modded-forge-1.20.1-1.0.5.jar)
+[14Mar2025 02:44:16.037] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag totw_modded:has_structure/moon_tower as it is missing following references: ad_astra:lunar_wastelands (from totw_modded-forge-1.20.1-1.0.5.jar)
+[14Mar2025 02:44:16.052] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag totw_modded:has_structure/ratlantis_tower as it is missing following references: rats:ratlantis (from totw_modded-forge-1.20.1-1.0.5.jar)
+[14Mar2025 02:44:16.054] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag totw_modded:has_structure/tw_canopy_tower as it is missing following references: twilightforest:forest (from totw_modded-forge-1.20.1-1.0.5.jar), 
 	twilightforest:spooky_forest (from totw_modded-forge-1.20.1-1.0.5.jar), 
 	twilightforest:mushroom_forest (from totw_modded-forge-1.20.1-1.0.5.jar)
-[12Mar2025 02:54:31.535] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag totw_modded:has_structure/everbright_tower as it is missing following references: blue_skies:calming_skies (from totw_modded-forge-1.20.1-1.0.5.jar), 
+[14Mar2025 02:44:16.055] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag totw_modded:has_structure/everbright_tower as it is missing following references: blue_skies:calming_skies (from totw_modded-forge-1.20.1-1.0.5.jar), 
 	blue_skies:brightlands (from totw_modded-forge-1.20.1-1.0.5.jar), 
 	blue_skies:slushlands (from totw_modded-forge-1.20.1-1.0.5.jar), 
 	blue_skies:frostbitten_forest (from totw_modded-forge-1.20.1-1.0.5.jar), 
@@ -213,12 +213,12 @@ To disable a bonus drop for a default definition, set the amount to 0.
 	blue_skies:snow_covered_pines (from totw_modded-forge-1.20.1-1.0.5.jar), 
 	blue_skies:brisk_meadow (from totw_modded-forge-1.20.1-1.0.5.jar), 
 	blue_skies:polar_highland (from totw_modded-forge-1.20.1-1.0.5.jar)
-[12Mar2025 02:54:31.545] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag totw_modded:has_structure/mars_tower as it is missing following references: ad_astra:martian_canyon_creek (from totw_modded-forge-1.20.1-1.0.5.jar), 
+[14Mar2025 02:44:16.055] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag totw_modded:has_structure/mars_tower as it is missing following references: ad_astra:martian_canyon_creek (from totw_modded-forge-1.20.1-1.0.5.jar), 
 	ad_astra:martian_wastelands (from totw_modded-forge-1.20.1-1.0.5.jar)
-[12Mar2025 02:54:31.552] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag totw_modded:has_structure/glacio_tower as it is missing following references: ad_astra:glacio_snowy_barrens (from totw_modded-forge-1.20.1-1.0.5.jar), 
+[14Mar2025 02:44:16.056] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag totw_modded:has_structure/glacio_tower as it is missing following references: ad_astra:glacio_snowy_barrens (from totw_modded-forge-1.20.1-1.0.5.jar), 
 	ad_astra:glacio_ice_peaks (from totw_modded-forge-1.20.1-1.0.5.jar)
-[12Mar2025 02:54:31.552] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag totw_modded:has_structure/mercury_tower as it is missing following references: ad_astra:mercury_deltas (from totw_modded-forge-1.20.1-1.0.5.jar)
-[12Mar2025 02:54:32.351] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:minecraft_121_update:blocks/spawner_loot_0
+[14Mar2025 02:44:16.058] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag totw_modded:has_structure/mercury_tower as it is missing following references: ad_astra:mercury_deltas (from totw_modded-forge-1.20.1-1.0.5.jar)
+[14Mar2025 02:44:16.813] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:minecraft_121_update:blocks/spawner_loot_0
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'minecraft_121_update:deleted_mod_element'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23239!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -270,7 +270,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[12Mar2025 02:54:32.379] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:minecraft_121_update:spawner_loot_2
+[14Mar2025 02:44:16.852] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:minecraft_121_update:spawner_loot_2
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'minecraft_121_update:deleted_mod_element'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23239!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -322,7 +322,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[12Mar2025 02:54:32.383] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:minecraft_121_update:spawner_loot_1
+[14Mar2025 02:44:16.859] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:minecraft_121_update:spawner_loot_1
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'minecraft_121_update:deleted_mod_element'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23239!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -374,7 +374,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[12Mar2025 02:54:33.113] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alexsdelight:barbecue_on_a_stick
+[14Mar2025 02:44:17.636] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alexsdelight:barbecue_on_a_stick
 com.google.gson.JsonSyntaxException: Unknown item 'amfd:singular_cooked_moose_rib'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23239!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -412,7 +412,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'amfd:singular_cooked_moose_ri
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[12Mar2025 02:54:33.126] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe minecraft_121_update:copper_lock_crafting
+[14Mar2025 02:44:17.650] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe minecraft_121_update:copper_lock_crafting
 com.google.gson.JsonSyntaxException: Unknown item 'minecraft_121_update:deleted_mod_element'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23244!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23244!/:?]
@@ -445,799 +445,89 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft_121_update:deleted_
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[12Mar2025 02:54:33.196] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 14 recipes
-[12Mar2025 02:54:33.321] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement additionaladditions:use_watering_can: Failed to parse 'location' field
-[12Mar2025 02:54:33.394] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2474 advancements
-[12Mar2025 02:54:33.410] [main/INFO] [placebo/]: Registered 0 additional recipes.
-[12Mar2025 02:54:33.430] [main/INFO] [additionaladditions/]: [additionaladditions] Adding 22 loot pools
-[12Mar2025 02:54:33.433] [main/INFO] [additionaladditions/]: [additionaladditions] Loaded 0 behaviours
-[12Mar2025 02:54:33.436] [main/INFO] [placebo/]: Registered 0 gear_sets.
-[12Mar2025 02:54:33.469] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: forsaken:has_structures/wells/pit/cobble, totw_modded:has_structure/aether_tower, totw_modded:has_structure/everbright_tower, totw_modded:has_structure/everdawn_tower, totw_modded:has_structure/glacio_tower, totw_modded:has_structure/mars_tower, totw_modded:has_structure/mercury_tower, totw_modded:has_structure/moon_tower, totw_modded:has_structure/ratlantis_tower, totw_modded:has_structure/tw_canopy_tower, totw_modded:has_structure/tw_mangrove_tower, totw_modded:has_structure/venus_tower
-[12Mar2025 02:54:35.647] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[12Mar2025 02:54:35.647] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[12Mar2025 02:54:35.648] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[12Mar2025 02:54:35.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[12Mar2025 02:54:35.765] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[12Mar2025 02:54:35.808] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[12Mar2025 02:54:35.941] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[12Mar2025 02:54:35.943] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[12Mar2025 02:54:36.305] [Server thread/INFO] [Explorations/]: Config 'explorations.json' was successfully loaded.
-[12Mar2025 02:54:36.307] [Server thread/INFO] [Explorations/]: Added statues to vanilla villages
-[12Mar2025 02:54:36.323] [Server thread/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[12Mar2025 02:54:36.324] [Server thread/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[12Mar2025 02:54:36.388] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[12Mar2025 02:54:36.389] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[12Mar2025 02:54:36.390] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[12Mar2025 02:54:45.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[12Mar2025 02:54:52.163] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Mar2025 02:54:52.226] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Mar2025 02:54:52.238] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Mar2025 02:54:52.246] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Mar2025 02:54:52.266] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Mar2025 02:54:52.284] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Mar2025 02:54:52.298] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Mar2025 02:54:52.333] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Mar2025 02:54:52.356] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Mar2025 02:54:52.375] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Mar2025 02:54:52.396] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Mar2025 02:54:52.468] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Mar2025 02:54:52.509] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Mar2025 02:54:52.543] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Mar2025 02:54:52.708] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Mar2025 02:54:54.232] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Mar2025 02:54:54.233] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Mar2025 02:54:54.233] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Mar2025 02:54:54.694] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 3%
-[12Mar2025 02:54:55.194] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 35%
-[12Mar2025 02:54:55.757] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 82%
-[12Mar2025 02:54:56.092] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 10400 ms
-[12Mar2025 02:54:56.094] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (20.157s)! For help, type "help"
-[12Mar2025 02:54:56.210] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[12Mar2025 02:54:56.254] [Server thread/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Mod Recipe Manager ...
-[12Mar2025 02:54:56.258] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
-[12Mar2025 02:54:56.259] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[12Mar2025 03:07:18.700] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Otakulone is edd5f677-f922-4522-a3d8-cc1bc594eab1
-[12Mar2025 03:07:21.922] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Otakulone[/192.168.193.140:58710] logged in with entity id 323 at (3031.318315229935, 88.0, -285.6220638709064)
-[12Mar2025 03:07:22.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone joined the game
-[12Mar2025 03:07:22.065] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Otakulone
-[12Mar2025 03:07:22.089] [Server thread/INFO] [Jade/]: Syncing config to Otakulone (edd5f677-f922-4522-a3d8-cc1bc594eab1)
-[12Mar2025 03:07:23.834] [Netty Epoll Server IO #1/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Otakulone
-[12Mar2025 03:07:35.426] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player rekudox is 2e5c5be0-6e0c-48e7-a47d-e38e9967e578
-[12Mar2025 03:07:37.468] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rekudox[/192.168.193.168:62349] logged in with entity id 817 at (-9.5, 121.0, 9.5)
-[12Mar2025 03:07:37.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rekudox joined the game
-[12Mar2025 03:07:37.585] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to rekudox
-[12Mar2025 03:07:37.601] [Netty Epoll Server IO #3/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from rekudox
-[12Mar2025 03:07:37.644] [Server thread/INFO] [Jade/]: Syncing config to rekudox (2e5c5be0-6e0c-48e7-a47d-e38e9967e578)
-[12Mar2025 03:07:37.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rekudox has made the advancement [Ice and Fire]
-[12Mar2025 03:07:52.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rekudox has made the advancement [Alex's Mobs]
-[12Mar2025 03:08:14.258] [Worker-Main-20/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
-[12Mar2025 03:08:14.259] [Worker-Main-20/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
-[12Mar2025 03:09:04.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otakulone: Teleported 2 entities to Otakulone]
-[12Mar2025 03:10:06.482] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-641} is full and can't process results
-[12Mar2025 03:10:06.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otakulone: Teleported 2 entities to Otakulone]
-[12Mar2025 03:10:07.336] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-645} is full and can't process results
-[12Mar2025 03:10:07.699] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-646} is full and can't process results
-[12Mar2025 03:10:07.700] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-639} is full and can't process results
-[12Mar2025 03:10:07.700] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-640} is full and can't process results
-[12Mar2025 03:10:08.244] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=898, y=79, z=-638} is full and can't process results
-[12Mar2025 03:10:08.469] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[12Mar2025 03:10:08.881] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=897, y=79, z=-638} is full and can't process results
-[12Mar2025 03:10:09.176] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=896, y=79, z=-638} is full and can't process results
-[12Mar2025 03:10:58.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rekudox has made the advancement [Diamonds!]
-[12Mar2025 03:11:07.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rekudox has made the advancement [Cover Me with Diamonds]
-[12Mar2025 03:13:32.728] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Otakulone lost connection: Disconnected
-[12Mar2025 03:13:32.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone left the game
-[12Mar2025 03:13:38.459] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Otakulone is edd5f677-f922-4522-a3d8-cc1bc594eab1
-[12Mar2025 03:13:41.250] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Otakulone[/192.168.193.140:58817] logged in with entity id 4301 at (831.2702408552298, 67.0, -639.2027870954114)
-[12Mar2025 03:13:41.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone joined the game
-[12Mar2025 03:13:41.416] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Otakulone
-[12Mar2025 03:13:41.418] [Server thread/INFO] [Jade/]: Syncing config to Otakulone (edd5f677-f922-4522-a3d8-cc1bc594eab1)
-[12Mar2025 03:13:42.282] [Netty Epoll Server IO #5/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Otakulone
-[12Mar2025 03:14:51.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rekudox has made the advancement [Acquire Hardware]
-[12Mar2025 03:18:15.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otakulone: Teleported 2 entities to Otakulone]
-[12Mar2025 03:18:41.648] [Worker-Main-19/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-33 absolute--50 absolute]
-[12Mar2025 03:21:14.896] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2137ms or 42 ticks behind
-[12Mar2025 03:22:01.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rekudox has made the advancement ['X' Marks the Spot]
-[12Mar2025 03:22:17.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rekudox has made the advancement [Local Brewery]
-[12Mar2025 03:23:47.979] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=47, z=211}
-[12Mar2025 03:24:41.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rekudox was slain by Dread Ghoul
-[12Mar2025 03:24:41.928] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for rekudox with unique ID travelersbackpack.quartz_12.03.2025-03.24.41.dat
-[12Mar2025 03:24:41.929] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 3352 Y: 66.62999998033047 Z: -303
-[12Mar2025 03:24:45.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone was slain by Dread Ghoul
-[12Mar2025 03:24:45.919] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Otakulone with unique ID travelersbackpack.quartz_12.03.2025-03.24.45.dat
-[12Mar2025 03:24:45.919] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 3349 Y: 66.0 Z: -302
-[12Mar2025 03:24:52.505] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-641} is full and can't process results
-[12Mar2025 03:24:53.089] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-639} is full and can't process results
-[12Mar2025 03:24:53.186] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-646} is full and can't process results
-[12Mar2025 03:24:53.310] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-640} is full and can't process results
-[12Mar2025 03:24:53.844] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=897, y=79, z=-638} is full and can't process results
-[12Mar2025 03:24:54.239] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=896, y=79, z=-638} is full and can't process results
-[12Mar2025 03:24:54.628] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=898, y=79, z=-638} is full and can't process results
-[12Mar2025 03:25:07.899] [Worker-Main-19/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-425,-56,-205],type:"minecraft:block"}}]
-[12Mar2025 03:25:07.906] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=-46, z=-142}
-[12Mar2025 03:25:15.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rekudox was slain by Grizzly Bear
-[12Mar2025 03:25:37.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otakulone: Teleported 2 entities to 3349.500000, 66.000000, -301.500000]
-[12Mar2025 03:26:43.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rekudox was slain by Dread Ghoul
-[12Mar2025 03:26:43.326] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for rekudox with unique ID travelersbackpack.quartz_12.03.2025-03.26.43.dat
-[12Mar2025 03:26:43.327] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 3348 Y: 65.0 Z: -301
-[12Mar2025 03:26:50.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone was slain by Dread Ghoul
-[12Mar2025 03:26:50.915] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Otakulone with unique ID travelersbackpack.quartz_12.03.2025-03.26.50.dat
-[12Mar2025 03:26:50.915] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 3353 Y: 66.0 Z: -302
-[12Mar2025 03:26:57.240] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-646} is full and can't process results
-[12Mar2025 03:26:57.266] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-639} is full and can't process results
-[12Mar2025 03:26:57.329] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-641} is full and can't process results
-[12Mar2025 03:26:57.330] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-640} is full and can't process results
-[12Mar2025 03:26:57.330] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=896, y=79, z=-638} is full and can't process results
-[12Mar2025 03:26:57.451] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=898, y=79, z=-638} is full and can't process results
-[12Mar2025 03:26:57.789] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=897, y=79, z=-638} is full and can't process results
-[12Mar2025 03:27:15.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otakulone: Teleported 2 entities to 3349.500000, 66.000000, -301.500000]
-[12Mar2025 03:28:56.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone was slain by Dread Ghoul
-[12Mar2025 03:28:56.882] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Otakulone with unique ID travelersbackpack.quartz_12.03.2025-03.28.56.dat
-[12Mar2025 03:28:56.882] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 3373 Y: 70.24918707874468 Z: -312
-[12Mar2025 03:29:10.585] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-641} is full and can't process results
-[12Mar2025 03:29:10.825] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=897, y=79, z=-638} is full and can't process results
-[12Mar2025 03:29:11.070] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-646} is full and can't process results
-[12Mar2025 03:29:11.149] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-639} is full and can't process results
-[12Mar2025 03:29:11.212] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=896, y=79, z=-638} is full and can't process results
-[12Mar2025 03:29:11.294] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-640} is full and can't process results
-[12Mar2025 03:29:11.582] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=898, y=79, z=-638} is full and can't process results
-[12Mar2025 03:29:12.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otakulone: Teleported 2 entities to 3349.500000, 66.000000, -301.500000]
-[12Mar2025 03:32:30.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rekudox was slain by Dread Ghoul
-[12Mar2025 03:32:30.328] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for rekudox with unique ID travelersbackpack.quartz_12.03.2025-03.32.30.dat
-[12Mar2025 03:32:30.328] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 3351 Y: 68.0 Z: -303
-[12Mar2025 03:32:39.350] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-639} is full and can't process results
-[12Mar2025 03:32:39.388] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-646} is full and can't process results
-[12Mar2025 03:32:39.423] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-641} is full and can't process results
-[12Mar2025 03:32:39.424] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-640} is full and can't process results
-[12Mar2025 03:32:39.649] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=896, y=79, z=-638} is full and can't process results
-[12Mar2025 03:32:39.711] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=898, y=79, z=-638} is full and can't process results
-[12Mar2025 03:32:39.892] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=897, y=79, z=-638} is full and can't process results
-[12Mar2025 03:33:08.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otakulone: Teleported 2 entities to Otakulone]
-[12Mar2025 03:33:12.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone was slain by Dread Thrall
-[12Mar2025 03:33:15.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rekudox was slain by Dread Ghoul
-[12Mar2025 03:33:24.096] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-646} is full and can't process results
-[12Mar2025 03:33:24.138] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-639} is full and can't process results
-[12Mar2025 03:33:24.293] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-641} is full and can't process results
-[12Mar2025 03:33:24.350] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-640} is full and can't process results
-[12Mar2025 03:33:24.350] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=898, y=79, z=-638} is full and can't process results
-[12Mar2025 03:33:24.350] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=896, y=79, z=-638} is full and can't process results
-[12Mar2025 03:33:24.895] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=897, y=79, z=-638} is full and can't process results
-[12Mar2025 03:33:28.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otakulone: Teleported 2 entities to 3349.500000, 66.000000, -301.500000]
-[12Mar2025 03:33:30.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rekudox was slain by Dread Ghoul
-[12Mar2025 03:33:31.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone was slain by Dread Ghoul
-[12Mar2025 03:33:39.263] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-640} is full and can't process results
-[12Mar2025 03:33:39.284] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-641} is full and can't process results
-[12Mar2025 03:33:39.397] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=896, y=79, z=-638} is full and can't process results
-[12Mar2025 03:33:39.892] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=897, y=79, z=-638} is full and can't process results
-[12Mar2025 03:33:40.089] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-646} is full and can't process results
-[12Mar2025 03:33:40.132] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-639} is full and can't process results
-[12Mar2025 03:33:40.280] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=898, y=79, z=-638} is full and can't process results
-[12Mar2025 03:34:12.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rekudox has made the advancement [Suit Up]
-[12Mar2025 03:35:31.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otakulone: Teleported 2 entities to 3349.500000, 66.000000, -301.500000]
-[12Mar2025 03:35:37.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rekudox was slain by Dread Ghoul
-[12Mar2025 03:35:40.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone was slain by Dread Ghoul
-[12Mar2025 03:35:46.364] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-640} is full and can't process results
-[12Mar2025 03:35:46.450] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-641} is full and can't process results
-[12Mar2025 03:35:47.046] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-646} is full and can't process results
-[12Mar2025 03:35:47.093] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-639} is full and can't process results
-[12Mar2025 03:35:47.793] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=897, y=79, z=-638} is full and can't process results
-[12Mar2025 03:35:48.395] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=896, y=79, z=-638} is full and can't process results
-[12Mar2025 03:35:48.454] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=898, y=79, z=-638} is full and can't process results
-[12Mar2025 03:35:54.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otakulone: Teleported 2 entities to 3349.500000, 66.000000, -301.500000]
-[12Mar2025 03:37:50.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rekudox was slain by Dread Knight
-[12Mar2025 03:37:52.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone was slain by Dread Ghoul
-[12Mar2025 03:37:59.042] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-646} is full and can't process results
-[12Mar2025 03:37:59.043] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-639} is full and can't process results
-[12Mar2025 03:37:59.306] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-640} is full and can't process results
-[12Mar2025 03:37:59.307] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=898, y=79, z=-638} is full and can't process results
-[12Mar2025 03:37:59.307] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=896, y=79, z=-638} is full and can't process results
-[12Mar2025 03:37:59.338] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-641} is full and can't process results
-[12Mar2025 03:37:59.782] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=897, y=79, z=-638} is full and can't process results
-[12Mar2025 03:38:20.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otakulone: Teleported 2 entities to 3349.500000, 66.000000, -301.500000]
-[12Mar2025 03:38:21.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rekudox was slain by Dread Knight
-[12Mar2025 03:38:22.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone was slain by Dread Knight
-[12Mar2025 03:38:30.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otakulone: Teleported 2 entities to 3349.500000, 66.000000, -301.500000]
-[12Mar2025 03:38:30.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rekudox was slain by Dread Knight
-[12Mar2025 03:38:42.005] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-639} is full and can't process results
-[12Mar2025 03:38:42.216] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=896, y=79, z=-638} is full and can't process results
-[12Mar2025 03:38:42.252] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-646} is full and can't process results
-[12Mar2025 03:38:42.298] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=898, y=79, z=-638} is full and can't process results
-[12Mar2025 03:38:42.361] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-641} is full and can't process results
-[12Mar2025 03:38:42.362] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-640} is full and can't process results
-[12Mar2025 03:38:42.948] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=897, y=79, z=-638} is full and can't process results
-[12Mar2025 03:39:45.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otakulone: Teleported 2 entities to Otakulone]
-[12Mar2025 03:41:27.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone was slain by Dread Ghoul
-[12Mar2025 03:41:39.592] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-639} is full and can't process results
-[12Mar2025 03:41:39.649] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-646} is full and can't process results
-[12Mar2025 03:41:39.770] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-640} is full and can't process results
-[12Mar2025 03:41:39.801] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=898, y=79, z=-638} is full and can't process results
-[12Mar2025 03:41:39.828] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-641} is full and can't process results
-[12Mar2025 03:41:39.858] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=896, y=79, z=-638} is full and can't process results
-[12Mar2025 03:41:40.222] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=897, y=79, z=-638} is full and can't process results
-[12Mar2025 03:41:57.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otakulone: Teleported 2 entities to rekudox]
-[12Mar2025 03:42:55.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rekudox has made the advancement [Monster Hunter]
-[12Mar2025 03:43:38.179] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/empty
-[12Mar2025 03:44:15.685] [Worker-Main-29/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=3826, y=0, z=-36}
-[12Mar2025 03:44:25.043] [Worker-Main-19/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=3852, y=0, z=-36}
-[12Mar2025 03:44:25.813] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=3626, y=-27, z=92} but found not block entity block Block{minecraft:water}[level=8] at location
-[12Mar2025 03:44:25.813] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=3626, y=-27, z=92}
-[12Mar2025 03:44:25.813] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=3629, y=-27, z=92} but found not block entity block Block{minecraft:water}[level=8] at location
-[12Mar2025 03:44:25.814] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=3629, y=-27, z=92}
-[12Mar2025 03:45:58.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rekudox was slain by Sea Serpent
-[12Mar2025 03:45:58.689] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for rekudox with unique ID travelersbackpack.quartz_12.03.2025-03.45.58.dat
-[12Mar2025 03:45:58.689] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 3599 Y: 63.0043310172024 Z: -31
-[12Mar2025 03:46:08.144] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-640} is full and can't process results
-[12Mar2025 03:46:08.231] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-639} is full and can't process results
-[12Mar2025 03:46:08.231] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=896, y=79, z=-638} is full and can't process results
-[12Mar2025 03:46:08.313] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-646} is full and can't process results
-[12Mar2025 03:46:08.449] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-641} is full and can't process results
-[12Mar2025 03:46:08.449] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=898, y=79, z=-638} is full and can't process results
-[12Mar2025 03:46:08.998] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=897, y=79, z=-638} is full and can't process results
-[12Mar2025 03:46:39.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone was slain by Sea Serpent
-[12Mar2025 03:46:39.683] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Otakulone with unique ID travelersbackpack.quartz_12.03.2025-03.46.39.dat
-[12Mar2025 03:46:39.683] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 3614 Y: 69.0 Z: -38
-[12Mar2025 03:47:13.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otakulone: Teleported Otakulone to 3614.500000, 69.000000, -37.500000]
-[12Mar2025 03:47:53.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otakulone: Teleported Otakulone to 3614.500000, 69.000000, -37.500000]
-[12Mar2025 03:48:13.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otakulone: Teleported Otakulone to 3614.500000, 69.000000, -37.500000]
-[12Mar2025 03:48:31.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otakulone: Teleported 2 entities to 3614.500000, 69.000000, -37.500000]
-[12Mar2025 03:49:02.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone has made the advancement [Sea? Not a Problem]
-[12Mar2025 03:54:26.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rekudox was blown up by Skeleton Creeper
-[12Mar2025 03:54:26.507] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for rekudox with unique ID travelersbackpack.quartz_12.03.2025-03.54.26.dat
-[12Mar2025 03:54:26.508] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 3729 Y: 105.00133597911214 Z: -106
-[12Mar2025 03:54:35.469] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-640} is full and can't process results
-[12Mar2025 03:54:35.607] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-641} is full and can't process results
-[12Mar2025 03:54:35.608] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=898, y=79, z=-638} is full and can't process results
-[12Mar2025 03:54:35.952] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=897, y=79, z=-638} is full and can't process results
-[12Mar2025 03:54:36.120] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-639} is full and can't process results
-[12Mar2025 03:54:36.281] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-646} is full and can't process results
-[12Mar2025 03:54:36.311] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=896, y=79, z=-638} is full and can't process results
-[12Mar2025 03:55:01.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otakulone: Teleported 2 entities to Otakulone]
-[12Mar2025 03:56:34.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rekudox was blown up by Creeper
-[12Mar2025 03:56:34.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rekudox has made the advancement [Who You Gonna Call?]
-[12Mar2025 03:56:40.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otakulone: Teleported 2 entities to Otakulone]
-[12Mar2025 03:56:41.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone has made the advancement [Who You Gonna Call?]
-[12Mar2025 03:57:29.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rekudox was slain by Moose
-[12Mar2025 03:57:35.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otakulone: Teleported 2 entities to Otakulone]
-[12Mar2025 03:58:42.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone was slain by Frostmaw
-[12Mar2025 03:58:42.029] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Otakulone with unique ID travelersbackpack.quartz_12.03.2025-03.58.42.dat
-[12Mar2025 03:58:42.029] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 3700 Y: 63.0 Z: -355
-[12Mar2025 03:58:52.218] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-639} is full and can't process results
-[12Mar2025 03:58:52.463] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-646} is full and can't process results
-[12Mar2025 03:58:52.529] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-640} is full and can't process results
-[12Mar2025 03:58:52.579] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-641} is full and can't process results
-[12Mar2025 03:58:52.579] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=896, y=79, z=-638} is full and can't process results
-[12Mar2025 03:58:52.698] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=898, y=79, z=-638} is full and can't process results
-[12Mar2025 03:58:52.826] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=897, y=79, z=-638} is full and can't process results
-[12Mar2025 03:58:56.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otakulone: Teleported 2 entities to rekudox]
-[12Mar2025 03:59:03.319] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2211ms or 44 ticks behind
-[12Mar2025 03:59:16.138] [Worker-Main-19/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/empty
-[12Mar2025 03:59:19.402] [Worker-Main-29/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/empty
-[12Mar2025 03:59:22.667] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4358ms or 87 ticks behind
-[12Mar2025 03:59:30.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otakulone: Teleported 2 entities to Otakulone]
-[12Mar2025 03:59:52.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rekudox was slain by Frostmaw
-[12Mar2025 03:59:52.029] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for rekudox with unique ID travelersbackpack.quartz_12.03.2025-03.59.52.dat
-[12Mar2025 03:59:52.029] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 3672 Y: 63.41999998688698 Z: -334
-[12Mar2025 03:59:52.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone has completed the challenge [Rude Awakening]
-[12Mar2025 03:59:59.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otakulone: Teleported 2 entities to Otakulone]
-[12Mar2025 04:01:57.758] [Worker-Main-21/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=4244, y=-23, z=-388}
-[12Mar2025 04:02:03.612] [Worker-Main-19/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=4248, y=0, z=-755}
-[12Mar2025 04:02:16.567] [Worker-Main-21/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=4311, y=-33, z=-396}
-[12Mar2025 04:04:25.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rekudox was slain by Hydra
-[12Mar2025 04:04:25.334] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for rekudox with unique ID travelersbackpack.quartz_12.03.2025-04.04.25.dat
-[12Mar2025 04:04:25.334] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 4151 Y: 63.0 Z: -455
-[12Mar2025 04:04:31.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otakulone: Teleported 2 entities to Otakulone]
-[12Mar2025 04:05:10.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone hit the ground too hard whilst trying to escape Hydra
-[12Mar2025 04:05:10.144] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Otakulone with unique ID travelersbackpack.quartz_12.03.2025-04.05.10.dat
-[12Mar2025 04:05:10.144] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 4148 Y: 63.181863907600416 Z: -447
-[12Mar2025 04:05:16.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otakulone: Teleported 2 entities to rekudox]
-[12Mar2025 04:05:26.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rekudox was turned to ice by Ice Dragon
-[12Mar2025 04:05:34.553] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-639} is full and can't process results
-[12Mar2025 04:05:34.757] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-646} is full and can't process results
-[12Mar2025 04:05:34.797] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-640} is full and can't process results
-[12Mar2025 04:05:34.943] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=898, y=79, z=-638} is full and can't process results
-[12Mar2025 04:05:34.943] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=896, y=79, z=-638} is full and can't process results
-[12Mar2025 04:05:34.974] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-641} is full and can't process results
-[12Mar2025 04:05:35.461] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=897, y=79, z=-638} is full and can't process results
-[12Mar2025 04:05:43.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otakulone: Teleported 2 entities to Otakulone]
-[12Mar2025 04:05:58.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otakulone: Set own game mode to Creative Mode]
-[12Mar2025 04:06:13.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rekudox was slain by Hydra
-[12Mar2025 04:06:21.612] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-639} is full and can't process results
-[12Mar2025 04:06:21.711] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-640} is full and can't process results
-[12Mar2025 04:06:21.752] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-646} is full and can't process results
-[12Mar2025 04:06:21.917] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=898, y=79, z=-638} is full and can't process results
-[12Mar2025 04:06:21.956] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=896, y=79, z=-638} is full and can't process results
-[12Mar2025 04:06:21.992] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-641} is full and can't process results
-[12Mar2025 04:06:22.491] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=897, y=79, z=-638} is full and can't process results
-[12Mar2025 04:06:23.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otakulone: Teleported 2 entities to Otakulone]
-[12Mar2025 04:07:08.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rekudox was slain by Hydra
-[12Mar2025 04:07:17.086] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-639} is full and can't process results
-[12Mar2025 04:07:17.148] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-646} is full and can't process results
-[12Mar2025 04:07:17.290] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-641} is full and can't process results
-[12Mar2025 04:07:17.291] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-640} is full and can't process results
-[12Mar2025 04:07:17.291] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=898, y=79, z=-638} is full and can't process results
-[12Mar2025 04:07:17.291] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=896, y=79, z=-638} is full and can't process results
-[12Mar2025 04:07:17.579] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=897, y=79, z=-638} is full and can't process results
-[12Mar2025 04:07:33.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rekudox was shot by Skeleton
-[12Mar2025 04:07:51.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otakulone: Teleported 2 entities to Otakulone]
-[12Mar2025 04:07:58.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone has made the advancement [The Twelve Labors of Hercules]
-[12Mar2025 04:08:23.376] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2467ms or 49 ticks behind
-[12Mar2025 04:10:23.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otakulone: Set own game mode to Survival Mode]
-[12Mar2025 04:14:46.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rekudox was doomed to fall by Skeleton
-[12Mar2025 04:14:46.633] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for rekudox with unique ID travelersbackpack.quartz_12.03.2025-04.14.46.dat
-[12Mar2025 04:14:46.633] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 4176 Y: 76.0 Z: -467
-[12Mar2025 04:14:54.925] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=897, y=79, z=-638} is full and can't process results
-[12Mar2025 04:14:55.065] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-646} is full and can't process results
-[12Mar2025 04:14:55.183] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-639} is full and can't process results
-[12Mar2025 04:14:55.210] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-640} is full and can't process results
-[12Mar2025 04:14:55.307] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=896, y=79, z=-638} is full and can't process results
-[12Mar2025 04:14:55.486] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=898, y=79, z=-638} is full and can't process results
-[12Mar2025 04:14:55.529] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-641} is full and can't process results
-[12Mar2025 04:14:56.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otakulone: Teleported 2 entities to Otakulone]
-[12Mar2025 04:15:07.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone fell from a high place
-[12Mar2025 04:15:07.283] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Otakulone with unique ID travelersbackpack.quartz_12.03.2025-04.15.07.dat
-[12Mar2025 04:15:07.283] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 4126 Y: 63.875 Z: -458
-[12Mar2025 04:15:16.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rekudox fell from a high place
-[12Mar2025 04:15:17.028] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-639} is full and can't process results
-[12Mar2025 04:15:17.155] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-646} is full and can't process results
-[12Mar2025 04:15:17.298] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-640} is full and can't process results
-[12Mar2025 04:15:17.298] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=898, y=79, z=-638} is full and can't process results
-[12Mar2025 04:15:17.355] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=896, y=79, z=-638} is full and can't process results
-[12Mar2025 04:15:17.609] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-641} is full and can't process results
-[12Mar2025 04:15:18.003] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=897, y=79, z=-638} is full and can't process results
-[12Mar2025 04:15:31.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone was slain by Zombie
-[12Mar2025 04:15:39.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rekudox was slain by Zombie
-[12Mar2025 04:16:36.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otakulone: Teleported 2 entities to 4126.500000, 63.000000, -457.500000]
-[12Mar2025 04:18:35.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otakulone: Teleported 2 entities to rekudox]
-[12Mar2025 04:18:57.920] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=4576, y=-24, z=-366} but found not block entity block Block{minecraft:water}[level=0] at location
-[12Mar2025 04:18:57.920] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=4576, y=-24, z=-366}
-[12Mar2025 04:19:51.120] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:51.219] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:51.318] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:51.419] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:51.521] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:51.621] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:51.722] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:51.819] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:51.919] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:52.020] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:52.122] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:52.217] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:52.321] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:52.418] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:52.520] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:52.620] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:52.727] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:52.819] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:52.919] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:53.019] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:53.118] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:53.218] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:53.318] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:53.422] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:53.519] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:53.619] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:53.717] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:53.818] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:53.917] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:54.017] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:54.119] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:54.221] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:54.320] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:54.417] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:54.518] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:54.621] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:54.719] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:54.817] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:54.917] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:55.018] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:55.117] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:55.218] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:55.329] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:55.419] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:55.519] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:55.641] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:55.727] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:55.829] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:55.932] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:56.034] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:56.122] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:56.227] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:56.317] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:56.421] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:56.526] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:56.622] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:56.722] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:56.822] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:56.918] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:57.018] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:57.120] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:57.220] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:57.319] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:57.423] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:57.523] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:57.621] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:57.719] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:57.819] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:57.919] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:58.019] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:58.118] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:58.218] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:58.321] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:58.419] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:58.518] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:58.618] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:58.719] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:58.821] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:58.917] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:59.017] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:59.119] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:59.219] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:59.318] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:59.417] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:59.517] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:59.618] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:59.720] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:59.820] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:19:59.918] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:00.017] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:00.119] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:00.218] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:00.318] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:00.418] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:00.521] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:00.619] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:00.719] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:00.817] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:00.918] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:01.017] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:01.119] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:01.217] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:01.317] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:01.419] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:01.521] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:01.626] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:01.727] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:01.822] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:01.918] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:02.019] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:02.119] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:02.221] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:02.318] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:02.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rekudox has made the advancement [Tie me to the Mast]
-[12Mar2025 04:20:02.418] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:02.518] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:02.617] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:02.724] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:02.818] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:02.922] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:03.018] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:03.120] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:03.217] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:03.319] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:03.419] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:03.516] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:03.619] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:03.718] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:03.818] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:03.917] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:04.019] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:04.119] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:04.219] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:04.318] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:04.418] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:04.520] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:04.622] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:04.719] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:04.818] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:04.918] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:05.016] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:05.120] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:05.219] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:05.321] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:05.419] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:05.518] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:05.617] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:05.720] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:05.819] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:05.917] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:06.017] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:06.119] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:06.219] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:06.317] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:06.417] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:06.518] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:06.619] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:06.718] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:06.823] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:06.918] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:07.019] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:07.118] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:07.219] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:07.318] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:07.416] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:07.518] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:07.619] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:07.718] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:07.818] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:07.919] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:08.016] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:08.119] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:08.221] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:08.322] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:08.419] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:08.521] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:08.618] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:08.724] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:08.820] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:08.918] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:09.017] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:09.117] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:09.217] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:09.319] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:09.536] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:09.587] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:09.638] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:09.722] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:09.820] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:09.924] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:10.018] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:10.118] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:10.218] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:10.320] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:10.416] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:10.517] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:10.616] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:10.717] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:10.819] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:10.918] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:11.016] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:11.118] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:11.223] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:11.319] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:11.419] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:11.518] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:11.619] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:11.720] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:11.819] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:11.920] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:12.016] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:12.117] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:12.217] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:12.317] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:12.418] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:12.517] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:12.617] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:12.716] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:12.821] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:12.917] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:13.017] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:13.118] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:13.217] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:13.317] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:13.416] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:13.517] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:13.616] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:13.719] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:13.819] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:13.919] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:14.018] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:14.120] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:14.217] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:14.320] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:14.417] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:14.518] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:14.617] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:14.719] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:14.819] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:14.919] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:15.018] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:15.118] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:15.219] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:15.318] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:15.418] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:15.517] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:15.617] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:15.716] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:15.818] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:15.918] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:16.016] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:16.118] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:16.219] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:16.317] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:16.416] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:16.518] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:16.617] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:16.716] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:16.818] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:16.921] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:17.018] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:17.118] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:17.217] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:17.318] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:17.416] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:17.517] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:17.618] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:17.719] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:17.818] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:17.920] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:18.017] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:18.117] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:18.217] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:18.320] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:18.421] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:18.516] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:18.618] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:18.719] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:18.821] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:18.919] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:19.019] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:19.118] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:19.217] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:19.325] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:19.422] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:19.520] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:19.620] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:19.719] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:19.817] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:19.918] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:20.016] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:20.118] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:20.217] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:20.319] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:20.417] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:20.516] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:20.616] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:20.719] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:20.818] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:20.918] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:21.019] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:21.119] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:21.219] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:21.318] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:21.417] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:21.517] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:21.617] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:21.718] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:21.819] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:21.923] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:22.019] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:22.118] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:22.218] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:22.317] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:22.417] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:22.518] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:22.619] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:22.721] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:22.817] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:22.919] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:23.019] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:23.119] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:23.219] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:23.318] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:23.421] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:23.520] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:23.620] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:23.720] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:23.820] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:23.921] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:24.019] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:24.120] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:24.219] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:24.320] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:24.419] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:24.519] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:24.618] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:24.718] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:24.818] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:24.922] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:25.019] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:25.121] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:25.218] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:25.318] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:25.417] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:25.518] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:25.619] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:25.718] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:25.819] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:25.918] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:26.018] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:26.119] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:26.218] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:26.318] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:26.418] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:26.520] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:26.617] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:26.719] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:26.819] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:26.919] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:27.022] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Mar2025 04:20:27.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone has made the advancement [Tie me to the Mast]
-[12Mar2025 04:21:23.608] [Worker-Main-29/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/empty
-[12Mar2025 04:22:52.084] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Otakulone lost connection: Disconnected
-[12Mar2025 04:22:52.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone left the game
-[12Mar2025 04:22:56.539] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Otakulone is edd5f677-f922-4522-a3d8-cc1bc594eab1
-[12Mar2025 04:22:58.855] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Otakulone[/192.168.193.140:59997] logged in with entity id 54575 at (4363.205276583822, 63.0, -909.1410988669708)
-[12Mar2025 04:22:58.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone joined the game
-[12Mar2025 04:22:58.988] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Otakulone
-[12Mar2025 04:22:58.992] [Server thread/INFO] [Jade/]: Syncing config to Otakulone (edd5f677-f922-4522-a3d8-cc1bc594eab1)
-[12Mar2025 04:22:59.341] [Netty Epoll Server IO #7/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Otakulone
-[12Mar2025 04:23:20.743] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=311, y=48, z=214}
-[12Mar2025 04:23:20.743] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=310, y=48, z=214}
-[12Mar2025 04:23:20.744] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=310, y=49, z=214}
-[12Mar2025 04:23:20.744] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=311, y=49, z=214}
-[12Mar2025 04:23:20.744] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=311, y=50, z=214}
-[12Mar2025 04:23:20.744] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=310, y=50, z=214}
-[12Mar2025 04:23:20.971] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=309, y=49, z=214}
-[12Mar2025 04:23:20.971] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=309, y=48, z=214}
-[12Mar2025 04:23:20.971] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=309, y=50, z=214}
-[12Mar2025 04:23:22.384] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=311, y=48, z=214}
-[12Mar2025 04:23:22.384] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=310, y=48, z=214}
-[12Mar2025 04:23:22.385] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=309, y=49, z=214}
-[12Mar2025 04:23:22.385] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=309, y=48, z=214}
-[12Mar2025 04:23:22.385] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=310, y=49, z=214}
-[12Mar2025 04:23:22.385] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=311, y=49, z=214}
-[12Mar2025 04:23:22.385] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=311, y=50, z=214}
-[12Mar2025 04:23:22.385] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=310, y=50, z=214}
-[12Mar2025 04:23:22.386] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=309, y=50, z=214}
-[12Mar2025 04:24:41.097] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/empty
-[12Mar2025 04:24:48.801] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rekudox lost connection: Disconnected
-[12Mar2025 04:24:48.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rekudox left the game
-[12Mar2025 04:24:57.484] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player rekudox is 2e5c5be0-6e0c-48e7-a47d-e38e9967e578
-[12Mar2025 04:24:59.553] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rekudox[/192.168.193.168:51120] logged in with entity id 56802 at (4254.256777184862, 66.875, -1074.713553461059)
-[12Mar2025 04:24:59.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rekudox joined the game
-[12Mar2025 04:24:59.728] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to rekudox
-[12Mar2025 04:24:59.729] [Server thread/INFO] [Jade/]: Syncing config to rekudox (2e5c5be0-6e0c-48e7-a47d-e38e9967e578)
-[12Mar2025 04:25:00.585] [Netty Epoll Server IO #1/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from rekudox
-[12Mar2025 04:26:04.692] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/56372, l='ServerLevel[world]', x=4056.50, y=-14.00, z=-1317.75] died, message: 'Unemployed was shot by Pillager'
-[12Mar2025 04:27:01.611] [Worker-Main-20/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=4180, y=55, z=-1620}
-[12Mar2025 04:27:01.617] [Worker-Main-20/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=4177, y=55, z=-1619}
-[12Mar2025 04:27:01.708] [Worker-Main-19/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=4169, y=55, z=-1620}
-[12Mar2025 04:27:34.128] [Worker-Main-19/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/empty
-[12Mar2025 04:28:16.609] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/empty
-[12Mar2025 04:29:40.060] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-646} is full and can't process results
-[12Mar2025 04:29:40.722] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-641} is full and can't process results
-[12Mar2025 04:29:40.952] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=897, y=79, z=-638} is full and can't process results
-[12Mar2025 04:29:41.152] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-639} is full and can't process results
-[12Mar2025 04:29:41.232] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-640} is full and can't process results
-[12Mar2025 04:29:41.232] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=896, y=79, z=-638} is full and can't process results
-[12Mar2025 04:29:41.345] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=898, y=79, z=-638} is full and can't process results
-[12Mar2025 04:30:50.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone burned to death
-[12Mar2025 04:30:50.502] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Otakulone with unique ID travelersbackpack.quartz_12.03.2025-04.30.50.dat
-[12Mar2025 04:30:50.503] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 820 Y: 67.5625 Z: -647
-[12Mar2025 04:31:11.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otakulone: Teleported 2 entities to Otakulone]
-[12Mar2025 04:31:40.936] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-645} is full and can't process results
-[12Mar2025 04:34:26.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otakulone: Set own game mode to Creative Mode]
-[12Mar2025 04:34:46.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone has made the advancement [Mother of Dragons]
-[12Mar2025 04:34:56.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otakulone: Teleported 2 entities to Otakulone]
-[12Mar2025 04:35:01.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Otakulone> shhh
-[12Mar2025 04:35:05.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rekudox has made the advancement [Mother of Dragons]
-[12Mar2025 04:35:37.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <rekudox> SI BRYAN VE ESTO NOS MATA
-[12Mar2025 04:35:46.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otakulone: Set own game mode to Survival Mode]
-[12Mar2025 04:35:56.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otakulone: Set own game mode to Creative Mode]
-[12Mar2025 04:36:26.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otakulone: Set own game mode to Survival Mode]
-[12Mar2025 04:39:50.930] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-644} is full and can't process results
-[12Mar2025 04:42:48.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rekudox has made the advancement [Best Friends Forever]
-[12Mar2025 04:43:20.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rekudox has made the advancement [Sweet Dreams]
-[12Mar2025 04:46:21.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otakulone: Set own game mode to Creative Mode]
-[12Mar2025 04:48:35.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone has made the advancement [Suit Up]
-[12Mar2025 04:49:04.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rekudox has made the advancement [Suit Up]
-[12Mar2025 04:49:48.877] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rekudox lost connection: Disconnected
-[12Mar2025 04:49:48.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rekudox left the game
-[12Mar2025 04:49:56.879] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Otakulone lost connection: Disconnected
-[12Mar2025 04:49:56.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone left the game
-[12Mar2025 04:50:07.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[12Mar2025 04:50:07.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STOP<--[HERE]
-[12Mar2025 04:50:12.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[12Mar2025 04:50:12.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[12Mar2025 04:50:12.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[12Mar2025 04:50:12.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[12Mar2025 04:50:13.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[12Mar2025 04:50:13.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[12Mar2025 04:50:13.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
-[12Mar2025 04:50:13.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[12Mar2025 04:50:13.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[12Mar2025 04:50:13.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[12Mar2025 04:50:13.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
-[12Mar2025 04:50:13.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[12Mar2025 04:50:13.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[12Mar2025 04:50:14.067] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[14Mar2025 02:44:17.708] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 14 recipes
+[14Mar2025 02:44:17.821] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement additionaladditions:use_watering_can: Failed to parse 'location' field
+[14Mar2025 02:44:17.919] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2474 advancements
+[14Mar2025 02:44:17.925] [main/INFO] [placebo/]: Registered 0 additional recipes.
+[14Mar2025 02:44:17.945] [main/INFO] [additionaladditions/]: [additionaladditions] Adding 22 loot pools
+[14Mar2025 02:44:17.948] [main/INFO] [additionaladditions/]: [additionaladditions] Loaded 0 behaviours
+[14Mar2025 02:44:17.950] [main/INFO] [placebo/]: Registered 0 gear_sets.
+[14Mar2025 02:44:17.960] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: forsaken:has_structures/wells/pit/cobble, totw_modded:has_structure/aether_tower, totw_modded:has_structure/everbright_tower, totw_modded:has_structure/everdawn_tower, totw_modded:has_structure/glacio_tower, totw_modded:has_structure/mars_tower, totw_modded:has_structure/mercury_tower, totw_modded:has_structure/moon_tower, totw_modded:has_structure/ratlantis_tower, totw_modded:has_structure/tw_canopy_tower, totw_modded:has_structure/tw_mangrove_tower, totw_modded:has_structure/venus_tower
+[14Mar2025 02:44:20.154] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[14Mar2025 02:44:20.155] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[14Mar2025 02:44:20.155] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[14Mar2025 02:44:20.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[14Mar2025 02:44:20.257] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[14Mar2025 02:44:20.301] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[14Mar2025 02:44:20.480] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[14Mar2025 02:44:20.743] [Server thread/INFO] [Explorations/]: Config 'explorations.json' was successfully loaded.
+[14Mar2025 02:44:20.745] [Server thread/INFO] [Explorations/]: Added statues to vanilla villages
+[14Mar2025 02:44:20.762] [Server thread/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[14Mar2025 02:44:20.763] [Server thread/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[14Mar2025 02:44:20.795] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[14Mar2025 02:44:20.796] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[14Mar2025 02:44:20.796] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[14Mar2025 02:44:30.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[14Mar2025 02:44:37.190] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Mar2025 02:44:37.220] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Mar2025 02:44:37.285] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Mar2025 02:44:37.286] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Mar2025 02:44:37.289] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Mar2025 02:44:37.292] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Mar2025 02:44:37.296] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Mar2025 02:44:37.330] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Mar2025 02:44:37.344] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Mar2025 02:44:37.359] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Mar2025 02:44:37.372] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Mar2025 02:44:37.388] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Mar2025 02:44:37.420] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Mar2025 02:44:37.437] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Mar2025 02:44:37.445] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Mar2025 02:44:38.356] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[14Mar2025 02:44:38.356] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[14Mar2025 02:44:38.557] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Mar2025 02:44:38.565] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Mar2025 02:44:38.882] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Mar2025 02:44:39.165] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[14Mar2025 02:44:39.616] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Mar2025 02:44:39.878] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[14Mar2025 02:44:40.379] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 48%
+[14Mar2025 02:44:40.878] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 85%
+[14Mar2025 02:44:41.035] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 10658 ms
+[14Mar2025 02:44:41.036] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (20.586s)! For help, type "help"
+[14Mar2025 02:44:41.475] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[14Mar2025 02:44:41.528] [Server thread/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Mod Recipe Manager ...
+[14Mar2025 02:44:41.531] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[14Mar2025 02:44:41.532] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[14Mar2025 02:45:08.679] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Otakulone is edd5f677-f922-4522-a3d8-cc1bc594eab1
+[14Mar2025 02:45:11.106] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Otakulone[/192.168.193.140:61267] logged in with entity id 334 at (845.4107853460459, 67.0, -660.5133403953334)
+[14Mar2025 02:45:11.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone joined the game
+[14Mar2025 02:45:11.304] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Otakulone
+[14Mar2025 02:45:11.338] [Server thread/INFO] [Jade/]: Syncing config to Otakulone (edd5f677-f922-4522-a3d8-cc1bc594eab1)
+[14Mar2025 02:45:12.327] [Netty Epoll Server IO #5/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Otakulone
+[14Mar2025 02:45:15.304] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4222ms or 84 ticks behind
+[14Mar2025 02:45:15.613] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player rekudox is 2e5c5be0-6e0c-48e7-a47d-e38e9967e578
+[14Mar2025 02:45:17.702] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rekudox[/192.168.193.168:61156] logged in with entity id 549 at (850.8872363958501, 67.0, -642.7327258128533)
+[14Mar2025 02:45:17.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rekudox joined the game
+[14Mar2025 02:45:17.768] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to rekudox
+[14Mar2025 02:45:17.769] [Server thread/INFO] [Jade/]: Syncing config to rekudox (2e5c5be0-6e0c-48e7-a47d-e38e9967e578)
+[14Mar2025 02:45:19.339] [Netty Epoll Server IO #6/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from rekudox
+[14Mar2025 02:45:21.915] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-645} is full and can't process results
+[14Mar2025 02:45:21.965] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-639} is full and can't process results
+[14Mar2025 02:45:22.169] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-646} is full and can't process results
+[14Mar2025 02:45:22.312] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-640} is full and can't process results
+[14Mar2025 02:45:22.348] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-641} is full and can't process results
+[14Mar2025 02:45:22.716] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-644} is full and can't process results
+[14Mar2025 02:45:23.158] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=896, y=79, z=-638} is full and can't process results
+[14Mar2025 02:45:23.277] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=898, y=79, z=-638} is full and can't process results
+[14Mar2025 02:45:23.928] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=897, y=79, z=-638} is full and can't process results
+[14Mar2025 02:46:16.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otakulone: Set own game mode to Survival Mode]
+[14Mar2025 02:47:11.607] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rekudox lost connection: Disconnected
+[14Mar2025 02:47:11.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rekudox left the game
+[14Mar2025 02:48:07.569] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player rekudox is 2e5c5be0-6e0c-48e7-a47d-e38e9967e578
+[14Mar2025 02:48:09.718] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rekudox[/192.168.193.168:61269] logged in with entity id 1894 at (848.4034239035234, 67.0, -644.8802371032067)
+[14Mar2025 02:48:09.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rekudox joined the game
+[14Mar2025 02:48:09.870] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to rekudox
+[14Mar2025 02:48:09.871] [Server thread/INFO] [Jade/]: Syncing config to rekudox (2e5c5be0-6e0c-48e7-a47d-e38e9967e578)
+[14Mar2025 02:48:11.053] [Netty Epoll Server IO #0/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from rekudox
+[14Mar2025 02:53:36.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Otakulone> w
