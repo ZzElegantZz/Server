@@ -4531,6 +4531,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-03-19 01:58:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-03-19 01:58:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-03-19 02:01:51 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bat_smithing": {
+    "criteria": {
+      "has_bat": "2025-03-19 02:02:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_deepslate_wall": {
     "criteria": {
       "has_polished_deepslate": "2025-03-19 02:07:22 +0000"
@@ -4549,12 +4573,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/white_dye": {
-    "criteria": {
-      "has_bone_meal": "2025-03-19 01:58:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-03-19 02:07:22 +0000"
@@ -4564,12 +4582,6 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-03-19 02:07:22 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/bat_smithing": {
-    "criteria": {
-      "has_bat": "2025-03-19 02:02:20 +0000"
     },
     "done": true
   },
@@ -4609,12 +4621,6 @@
     },
     "done": true
   },
-  "minecraft:story/follow_ender_eye": {
-    "criteria": {
-      "in_stronghold": "2025-03-19 02:01:51 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-03-19 02:07:22 +0000"
@@ -4639,9 +4645,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bone_block": {
+  "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
-      "has_bone_meal": "2025-03-19 01:58:55 +0000"
+      "has_enchanted_golden_apple": "2025-03-19 02:19:39 +0000"
     },
     "done": true
   },
