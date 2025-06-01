@@ -4510,3 +4510,24 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft_121_update:deleted_
 [01Jun2025 22:27:25.506] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [01Jun2025 22:32:25.495] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Jun2025 22:32:25.506] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 22:35:55.573] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Otakulone lost connection: Disconnected
+[01Jun2025 22:35:55.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone left the game
+[01Jun2025 22:36:17.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[01Jun2025 22:36:17.211] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: Server is stopping... try to save all still loaded CosmeticArmor data
+[01Jun2025 22:36:17.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[01Jun2025 22:36:17.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[01Jun2025 22:36:17.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[01Jun2025 22:36:17.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01Jun2025 22:36:17.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[01Jun2025 22:36:17.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01Jun2025 22:36:17.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01Jun2025 22:36:17.409] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 22:36:17.418] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 22:36:17.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01Jun2025 22:36:17.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[01Jun2025 22:36:17.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01Jun2025 22:36:17.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01Jun2025 22:36:17.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01Jun2025 22:36:17.520] [Server thread/DEBUG] [SpectreLib/CONFIG]: Unloading server configs
+[01Jun2025 22:36:17.521] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[01Jun2025 22:36:17.522] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
