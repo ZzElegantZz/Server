@@ -4484,3 +4484,24 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft_121_update:deleted_
 [01Jun2025 22:09:06.983] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=897, y=79, z=-638} is full and can't process results
 [01Jun2025 22:09:07.137] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-639} is full and can't process results
 [01Jun2025 22:12:15.322] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=67, z=-647} is full and can't process results
+[01Jun2025 22:12:25.498] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 22:12:25.507] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 22:16:32.537] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=821, y=64, z=-613} BlockPos{x=820, y=64, z=-614}
+[01Jun2025 22:16:32.587] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=821, y=64, z=-613} BlockPos{x=820, y=64, z=-614}
+[01Jun2025 22:16:33.088] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=821, y=66, z=-614} BlockPos{x=819, y=65, z=-614}
+[01Jun2025 22:16:33.138] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=821, y=66, z=-614} BlockPos{x=819, y=65, z=-614}
+[01Jun2025 22:16:33.186] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=821, y=66, z=-614} BlockPos{x=819, y=65, z=-614}
+[01Jun2025 22:16:33.238] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=821, y=66, z=-614} BlockPos{x=819, y=65, z=-614}
+[01Jun2025 22:16:33.291] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=821, y=66, z=-614} BlockPos{x=819, y=65, z=-614}
+[01Jun2025 22:16:33.338] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=821, y=66, z=-614} BlockPos{x=819, y=65, z=-614}
+[01Jun2025 22:16:33.386] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=821, y=66, z=-614} BlockPos{x=819, y=65, z=-614}
+[01Jun2025 22:16:33.438] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=821, y=66, z=-614} BlockPos{x=819, y=65, z=-614}
+[01Jun2025 22:16:33.488] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=821, y=66, z=-614} BlockPos{x=819, y=65, z=-614}
+[01Jun2025 22:16:33.536] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=821, y=66, z=-614} BlockPos{x=819, y=65, z=-614}
+[01Jun2025 22:16:33.585] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=821, y=66, z=-614} BlockPos{x=819, y=65, z=-614}
+[01Jun2025 22:16:33.636] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=821, y=66, z=-614} BlockPos{x=819, y=65, z=-614}
+[01Jun2025 22:16:45.241] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=782, y=64, z=-626} BlockPos{x=781, y=64, z=-627}
+[01Jun2025 22:17:25.493] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 22:17:25.503] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 22:22:25.556] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 22:22:25.565] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
