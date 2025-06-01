@@ -554,3 +554,23 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft_121_update:deleted_
 [01Jun2025 21:40:51.687] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-640} is full and can't process results
 [01Jun2025 21:40:51.925] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=898, y=79, z=-638} is full and can't process results
 [01Jun2025 21:40:51.926] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=896, y=79, z=-638} is full and can't process results
+[01Jun2025 21:42:01.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone has made the advancement [Walking Dead]
+[01Jun2025 21:43:12.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone has made the advancement [Hanging Tree]
+[01Jun2025 21:53:47.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone has made the advancement [Ant Farm]
+[01Jun2025 21:55:52.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone has made the advancement [Hot Stuff]
+[01Jun2025 22:01:25.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone fell from a high place
+[01Jun2025 22:01:25.291] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Otakulone with unique ID travelersbackpack.quartz_01.06.2025-22.01.25.dat
+[01Jun2025 22:01:25.292] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 9 Y: 78.0 Z: -193
+[01Jun2025 22:02:23.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone was slain by Zombie
+[01Jun2025 22:07:21.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otakulone was slain by Enderman
+[01Jun2025 22:07:21.282] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Otakulone with unique ID travelersbackpack.quartz_01.06.2025-22.07.21.dat
+[01Jun2025 22:07:21.283] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 158 Y: 69.0 Z: -469
+[01Jun2025 22:08:54.953] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2542ms or 50 ticks behind
+[01Jun2025 22:09:06.694] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-645} is full and can't process results
+[01Jun2025 22:09:06.814] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-640} is full and can't process results
+[01Jun2025 22:09:06.814] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=896, y=79, z=-638} is full and can't process results
+[01Jun2025 22:09:06.879] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=898, y=79, z=-638} is full and can't process results
+[01Jun2025 22:09:06.888] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-641} is full and can't process results
+[01Jun2025 22:09:06.983] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=897, y=79, z=-638} is full and can't process results
+[01Jun2025 22:09:07.137] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=68, z=-639} is full and can't process results
+[01Jun2025 22:12:15.322] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=839, y=67, z=-647} is full and can't process results
