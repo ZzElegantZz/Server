@@ -4651,15 +4651,15 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
-    "criteria": {
-      "leafcutter_ant_pupa": "2025-06-01 21:53:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_the_recipe": "2025-06-01 21:38:26 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_horde": {
+    "criteria": {
+      "kill_horde": "2025-06-01 21:42:01 +0000"
     },
     "done": true
   },
@@ -4669,9 +4669,9 @@
     },
     "done": true
   },
-  "graveyard:graveyard/kill_horde": {
+  "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
     "criteria": {
-      "kill_horde": "2025-06-01 21:42:01 +0000"
+      "leafcutter_ant_pupa": "2025-06-01 21:53:47 +0000"
     },
     "done": true
   },
